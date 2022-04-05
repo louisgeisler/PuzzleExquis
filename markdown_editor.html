@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8"/>
+  
+  <title>Patchwork-Exquis</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+  .container {
+    display: flex;    
+    height: 100vh;  
+    margin: 0px;
+    background-color: whitesmoke;
+    overflow: hidden;
+  }
+  .container .col {
+    flex: 1;
+    height: 100%;
+    overflow-y: scroll;
+    resize: none;
+  }
+
+  #markdown_preview {
+    white-space: pre-line;
+  }
+  </style>
+</head>
+<body class="container">
+    <textarea class="col" id="markdown_edit" name="story" placeholder="Write your story here" oninput="myFunction()" autofocus></textarea>
+  <div class="col" id="markdown_preview">
+  </div>
+  <div class="col">
+    <div id="info"></div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  </div>
+
+<script>
+  var break_line = "\n".repeat(30);
+  function myFunction() {
+    var txt = document.getElementById('markdown_edit').value;
+    var info_dict = {};
+    //txt = txt.replaceAll(/\n\r?/g, '\n');
+    console.log(txt);
+    txt = txt.replaceAll(/\{\#.*\|.*\}/g, function(match) {
+      var test = match.split(/\|/g);
+      var id = test[0].slice(2);
+      console.log("id "+id);
+      var info = test[1].slice(0, -1);
+      if (id in info_dict) {
+        info_dict[id].push(info);
+      } else {
+        info_dict[id]=[info];
+      }
+      return "["+info+"](#"+id+")";
+    });
+    var carte_info = "";
+    for([key, val] of Object.entries(info_dict)) {
+      carte_info += "# "+key+val.map(x => "\n - "+x).join("")+"\n\n";
+    }
+    carte_info += break_line;
+    console.log("carte_info", carte_info);
+    document.getElementById('info').innerHTML = marked.parse(carte_info);
+    document.getElementById('markdown_preview').innerHTML = marked.parse(txt);
+  }
+</script>
+</body>
+</html>
