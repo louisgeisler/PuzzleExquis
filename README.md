@@ -17,5 +17,7 @@ Chacun devra donc faire l’effort de se conformer aux différentes règles mise
 
 # Comment participer ?
 
-- Lisez les [**règles**](/wiki/regles)
-- Lisez la [**plannification du projet**](/wiki/plan_de_construction)
+- Lisez les [**règles**](/wiki/regles.md)
+- Lisez la [**plannification du projet**](/wiki/plan_de_construction.md)
+
+Vous pouvez aussi utiliser [l'éditeur markdown du projet](https://louisgeisler.github.io/PuzzleExquis/) qui intègre aussi les notation définies dans la plannification du projet
