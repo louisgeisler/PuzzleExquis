@@ -74,14 +74,14 @@ Chaque caractéristiques qui sera ajoutée ou développée devra être reliée p
 
 **Par exemple:**
 ```
-{#1-1}{Harry est orphelin}
+{#1-1|Harry est orphelin}
 Harry habitait chez les Dudley, ses parents adoptifs… Harry était physiquement normal, a une exception près, {#personnage:harry|il avait une cicatrice en forme d'éclair sur le front, qui était là depuis sa naissance}, pour autant, cela ne l'avait jamais empêché de dormir…
-{#1-2}{Harry aime Hermione}
+{#1-2|Harry aime Hermione}
 …
-{#1-2}{Hermione aime Ron}
+{#1-2|Hermione aime Ron}
 ...
-{#1-2}{Ron aime Dumbledore}
-{#1-1}{Harry est le fils de Lily et James Potter}
+{#1-2|Ron aime Dumbledore}
+{#1-1|Harry est le fils de Lily et James Potter}
 The End
 ```
 
