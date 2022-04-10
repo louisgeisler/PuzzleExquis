@@ -1,5 +1,5 @@
 # Description du projet:
-Projet littéraire d'écriture collaborative d'une histoire pour s'initier e façon ludique à la rigueur et au pragmatisme d'utiliser un logiciel de gestion de versions tel que Git pour collaborer.
+Projet littéraire d'écriture collaborative d'une histoire pour s'initier de façon ludique à la rigueur et au pragmatisme d'utiliser un logiciel de gestion de versions tel que Git pour collaborer.
 
 # Pourquoi participer au projet ?
 
