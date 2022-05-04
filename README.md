@@ -21,3 +21,11 @@ Chacun devra donc faire l’effort de se conformer aux différentes règles mise
 - Lisez la [**plannification du projet**](/wiki/plan_de_construction.md)
 
 Vous pouvez aussi utiliser [l'éditeur markdown du projet](https://louisgeisler.github.io/PuzzleExquis/) qui intègre aussi les notation définies dans la plannification du projet
+
+# Avancement du projet:
+
+**1. Selection**: Les participants doivent présenter leur trame narrative (cf [**Le Plan de Construction**](/wiki/plan_de_construction.md#selection)). Elle doit avoir entre 5 et 10 ligne de Setup/Payoff et etre prévue comme base pour une nouvelle de 10 à 20 pages. Vous pouvez voir un exemple [**ici**](/selection/louis_geisler.md).
+1. Structuration 
+1. Entrétape
+1. Habillement
+1. Relecture
