@@ -24,8 +24,8 @@ Vous pouvez aussi utiliser [l'éditeur markdown du projet](https://louisgeisler.
 
 # Avancement du projet:
 
-**1. Selection**: Les participants doivent présenter leur trame narrative (cf [**Le Plan de Construction**](/wiki/plan_de_construction.md#selection)). Elle doit avoir entre 5 et 10 ligne de Setup/Payoff et etre prévue comme base pour une nouvelle de 10 à 20 pages. Vous pouvez voir un exemple [**ici**](/selection/louis_geisler.md).
-1. Structuration 
-1. Entrétape
-1. Habillement
-1. Relecture
+- [ ] **Selection (EN COURS !)**: Les participants doivent présenter leur trame narrative (cf [**Le Plan de Construction**](/wiki/plan_de_construction.md#selection)). Elle doit avoir entre 5 et 10 ligne de Setup/Payoff et etre prévue comme base pour une nouvelle de 10 à 20 pages. Vous pouvez voir un exemple [**ici**](/selection/louis_geisler.md).
+- [ ] **Structuration**
+- [ ] **Entrétape**
+- [ ] **Habillement**
+- [ ] **Relecture**
