@@ -26,3 +26,15 @@ Situation initiale : l’inventeur travail dans une grande ville de province, Le
 {5} Avertis est inspiré et participe de plus en plus, il aide la reine avec ses blessures, confectionne plus d’arme et aide à l’entretien des équipements. Puis demande pour une bataille à combattre avec la reine
 [6] l’armée ennemie déploie une force non prévue la reine est menacé de mort
 {6} Avertis la sauve au prix d’une grave blessure Lorsqu’il se réveille Lina à son chevet lui déclare sa flame et Avertis comprend que sa place est auprès de la reine.
+
+version plus courte
+
+avertis travaille pour le roi il ne se sent pas à sa place
+[1] le roi meurt au combat et est remplacer par une jeune reine, prodige militaire et héroine adorée du peuple
+{1} Avertis demande à la reine comment trouver sa place
+[2] la reine ne sachant pas quoi lui répondre et intrigué accepte de l'avoir à ses côté pour qu'il puisse trouver ses réponses
+{2} les deux opposés forges un lien fort et sans s'en rendre compte Avertis perd sa sensation de mal être
+[3] la reine repart au combat et avertis insiste pour l'accompagné
+{3} Avertis s'immplique de plus en plus et la reine se repose sur lui
+[4] il sauve la reine lors d'une battaille au prix d'une grave blessure
+{4} la reine lui déclare son amour à son réveil et il se rend compte qu'il a trouvé sa place
