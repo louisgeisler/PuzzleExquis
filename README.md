@@ -32,13 +32,12 @@ Vous pouvez aussi utiliser [l'éditeur markdown du projet](https://louisgeisler.
 # Avancement du projet:
 
 - [X] **Selection**: Les participants doivent présenter leur trame narrative (cf [**Le Plan de Construction**](/wiki/plan_de_construction.md#selection)). Elle doit avoir entre 5 et 10 ligne de Setup/Payoff et etre prévue comme base pour une nouvelle de 10 à 20 pages.
-Vous pouvez voir un exemple [**ici**](/selection/louis_geisler.md).  
 **Liste des histoire:**
-  * [Louis](/selection/louis.md)
-  * [Harrison](/selection/harrisson.md)
-  * [Victoire](/selection/victoire.md)
-  * [Tanguy 1](/selection/tanguy.md)
-  * [Tanguy 2](/selection/tanguy_1.md)
+  * [Louis](/1_selection/louis.md)
+  * [Harrison](/1_selection/harrisson.md)
+  * [Victoire](/1_selection/victoire.md)
+  * [Tanguy 1](/1_selection/tanguy.md)
+  * [Tanguy 2](/1_selection/tanguy_1.md)
   
   **Vote:** L'histoire de Victoire fut retenue.
 
