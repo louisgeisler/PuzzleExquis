@@ -39,8 +39,9 @@ Vous pouvez voir un exemple [**ici**](/selection/louis_geisler.md).
   * [Victoire](/selection/victoire.md)
   * [Tanguy 1](/selection/tanguy.md)
   * [Tanguy 2](/selection/tanguy_1.md)
-**Vote:**
-   L'histoire di Victoire fut retenue.
+  
+  **Vote:** L'histoire de Victoire fut retenue.
+
 - [ ] **Structuration (En Cours)**: les participants proposes et discutes de modifications à apporter à la structure de l'histoire.
 - [ ] **Entrétape**
 - [ ] **Habillement**
