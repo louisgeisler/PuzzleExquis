@@ -22,13 +22,26 @@ Chacun devra donc faire l’effort de se conformer aux différentes règles mise
 
 Vous pouvez aussi utiliser [l'éditeur markdown du projet](https://louisgeisler.github.io/PuzzleExquis/) qui intègre aussi les notation définies dans la plannification du projet
 
+# Participants:
+
+- [Jeanne-DEBETTE](https://github.com/Jeanne-DEBETTE)
+- [Harrykeith](https://github.com/Harrykeith)
+- [Birdarc](https://github.com/Birdarc)
+- [louisgeisler](https://github.com/louisgeisler)
+
 # Avancement du projet:
 
-- [ ] **Selection (EN COURS !)**: Les participants doivent présenter leur trame narrative (cf [**Le Plan de Construction**](/wiki/plan_de_construction.md#selection)). Elle doit avoir entre 5 et 10 ligne de Setup/Payoff et etre prévue comme base pour une nouvelle de 10 à 20 pages.
+- [X] **Selection**: Les participants doivent présenter leur trame narrative (cf [**Le Plan de Construction**](/wiki/plan_de_construction.md#selection)). Elle doit avoir entre 5 et 10 ligne de Setup/Payoff et etre prévue comme base pour une nouvelle de 10 à 20 pages.
 Vous pouvez voir un exemple [**ici**](/selection/louis_geisler.md).  
 **Liste des histoire:**
-  * [La Montagne Gronde: Louis Geisler](/selection/louis_geisler.md)
-- [ ] **Structuration**
+  * [Louis](/selection/louis.md)
+  * [Harrison](/selection/harrisson.md)
+  * [Victoire](/selection/victoire.md)
+  * [Tanguy 1](/selection/tanguy.md)
+  * [Tanguy 2](/selection/tanguy_1.md)
+**Vote:**
+   L'histoire di Victoire fut retenue.
+- [ ] **Structuration (En Cours)**: les participants proposes et discutes de modifications à apporter à la structure de l'histoire.
 - [ ] **Entrétape**
 - [ ] **Habillement**
 - [ ] **Relecture**
