@@ -1,14 +1,14 @@
-[0] Camilla vie tranquillement avec ses parents adoptif dans un village habitué à sa présence
-[1] un milicien tueur d'hybride et ami des parents d'adoption de Camilla arrive, il évoque la rumeur d'un enfant d'hybride
-(1)[3] camilla fugue
-(1)(3) le milicien la prend en chasse pour la ramener
-[2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables
-(2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer
-(3) le milicien arrive derriere elle et cause en massacre en dénichant un réseau de resistants
-(2)Camilla s'enfuie et se met en route
-[4] Camilla arrive dans la ville frontalière et rencontre le passeur qui s est occupé de ses parents
-(3) [5]le milicien arrive juste apres elle et decouvre le passeur 
-(5) camillas enfuie de justesse et (4) part pour des ruines que lui a indiqué le passeur
-[6] (3) Camilla y trouve la vérité sur ses parents et le milicien la ramène chez elle
-(6) une fois là-bas Camilla fait éclater la vérité sur ses origine et le milicien l execute devant le regard des villageois
-(CHEH) la révolte gronde
+[T] [0] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence
+[T] [1] un milicien tueur d'hybride et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride
+[T] (1)[3] PP1 fugue
+[T] (1)(3) le milicien la prend en chasse pour la ramener
+[T] [2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables
+[T] (2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer
+[T] (3) le milicien arrive derriere elle et cause en massacre en dénichant un réseau de resistants
+[T] (2) PP1 s'enfuie et se met en route
+[T] [4] PP1 arrive dans la ville frontalière et rencontre le passeur qui s est occupé de ses parents
+[T] (3) [5]le milicien arrive juste apres elle et decouvre le passeur 
+[T] (5) PP1 enfuie de justesse et (4) part pour des ruines que lui a indiqué le passeur
+[T] [6] (3) PP1 y trouve la vérité sur ses parents et le milicien la ramène chez elle
+[T] (6) une fois là-bas PP1 fait éclater la vérité sur ses origine et le milicien l execute devant le regard des villageois
+(conclusion) la révolte gronde
