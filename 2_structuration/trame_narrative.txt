@@ -1,5 +1,6 @@
 [T0] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence
-[T1] un milicien tueur d'hybride et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride
+[T1] un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride
+[H0] La brigate s'appelle "ONFPOSCO"
 (T1)[T3] PP1 fugue
 (T1)(T3) le milicien la prend en chasse pour la ramener
 [T2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables
@@ -7,8 +8,15 @@
 (T3) Le milicien arrive derriere PP1 et cause en massacre en dénichant un réseau de resistants
 (T2) PP1 s'enfuie et se met en route
 [T4] PP1 arrive dans la ville frontalière et rencontre le passeur qui s est occupé de ses parents
-(T3)[T5] le milicien arrive juste apres elle et decouvre le passeur 
+(T3)[T5] le milicien arrive juste apres elle et decouvre le passeur
 (T5) PP1 enfuie de justesse et (4) part pour des ruines que lui a indiqué le passeur
+
+(L0) PP1 se réfugie dans une petite ile parsemé de ruines et peuplé entièrement de hybride ayant fui comme elle.
+[L0](L1) PP1 se rend compte qu'il y a une élite hybride, des gens très cultivé, qui essaye de créer et d'organiser une véritable société hybride sur cette ile.
+[L0](L1) PP1 se rend compte qu'ils cachent aussi un grand secret et qu'ils s'intéressent aux ruines et les fouille très profondément.
+[L1] Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile trèe prospère, mais 2 faction minoritaires auraient fais seccession et quitter en beteau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.
+
 [T6](T3) PP1 y trouve la vérité sur ses parents et le milicien la ramène chez elle
 (T6)[T7] une fois là-bas PP1 fait éclater la vérité sur ses origine et le milicien la capture
 (T7) les villageois organisent une révolte pour la libérer
+(H1) Quelquun demande pourquoi "ONFPOSCO" ? - Parce qu'On Ne Fait Pas d'Omelette Sans Casser des Oeufs! (En vrai, on se souvient plus de pouquoi ^^')
