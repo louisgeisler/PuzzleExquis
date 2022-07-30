@@ -10,5 +10,5 @@
 (T3)[T5] le milicien arrive juste apres elle et decouvre le passeur 
 (T5) PP1 enfuie de justesse et (4) part pour des ruines que lui a indiqué le passeur
 [T6](T3) PP1 y trouve la vérité sur ses parents et le milicien la ramène chez elle
-(T6)[T7] une fois là-bas PP1 fait éclater la vérité sur ses origine et le milicien l execute devant le regard des villageois
-(T7) la révolte gronde
+(T6)[T7] une fois là-bas PP1 fait éclater la vérité sur ses origine et le milicien la capture
+(T7) les villageois organisent une révolte pour la libérer
