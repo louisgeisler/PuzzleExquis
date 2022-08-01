@@ -1,25 +1,30 @@
-[T0] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence
-[T1] un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride
+[T0] PP1 vit tranquillement avec ses parents adoptifs dans un village habitué à sa présence.
+[T1] un commandant de la milice tueuse d'hybrides (idée: trouver un nom qui cache leur violence ; dératisseur?), ami des parents d'adoption de PP1, arrive. Il évoque la rumeur d'un enfant d'hybride spéciale
 [H0] La brigate s'appelle "ONFPOSCO"
-(T1)[T3] PP1 fugue
-(T1)(T3) le milicien la prend en chasse pour la ramener
-[T2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables
-(T2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer
-(T3) Le milicien arrive derriere PP1 et cause en massacre en dénichant un réseau de resistants
-(T2) PP1 s'enfuie et se met en route
-[T4] PP1 arrive dans la ville frontalière et rencontre le passeur qui s est occupé de ses parents
-(T3)[T5] le milicien arrive juste apres elle et decouvre le passeur
-(T5) PP1 enfuie de justesse et (4) part pour des ruines que lui a indiqué le passeur
+(H2) A sa venue, les parents adoptifs de PP1 agissent bizarrement et la cachent un peu.
+(H3)[H4] Blessée, elle leur demande ce qu'il se passe et pense qu'ils ont honte d'elle. Ils la rassurent que ce n'est pas le cas mais refusent de lui révéler une certaine vérité sur son origine dans le but de la protéger. 
+(H4) Désireuse de découvrir son passé, elle décide donc de fuguer vers une ville avec plus d'hybrides.
 
-(L0) PP1 se réfugie dans une petite ile parsemé de ruines et peuplé entièrement de hybride ayant fui comme elle.
-[L0](L1) PP1 se rend compte qu'il y a une élite hybride, des gens très cultivé, qui essaye de créer et d'organiser une véritable société hybride sur cette ile.
-[L0](L1) PP1 rencontre un jeune archéo qui lui fait découvrir un grand mystère de l'ile : des ruines anciennes auxquels ils s'intéressent et les fouille très profondément.
-[L1] Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile trèe prospère (ou alors, elle est de sang royale originale, grace à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la VRAI histoire et l'histoire oublié de son peuple), mais 2 faction minoritaires auraient fais seccession et quitter en bateau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.
-[fin] elle convainct les habitants de l île de revenir sur le continents pour sauver les autres hybrides en leur disant qu elle à été èlevé par des sang purs
-(fin) le passeur propose d utiliser ses contacts pour lancer une révolte en implicant les non hybrides 
+(T1)[T3] PP1 fugue
+
+(T1)(T3) le milicien la prend en chasse pour la ramener
+[T2] PP1 va dans la plus grande ville de la région; les conditions de vie des hybrides sont déplorables
+(T2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer
+(T3) Le milicien arrive derrière PP1 et cause un massacre en dénichant un réseau de résistants
+(T2) PP1 s'enfuit et se met en route
+[T4] PP1 arrive dans la ville frontalière et rencontre le passeur qui s'est occupé de ses parents
+(T3)[T5] le milicien arrive juste après elle et découvre le passeur
+(T5) PP1 enfuit de justesse et (4) part pour des ruines que lui a indiquées le passeur
+
+(L0) PP1 se réfugie dans une petite île parsemée de ruines et peuplée entièrement d'hybrides ayant fui comme elle.
+[L0](H1) PP1 se rend compte qu'il y a une élite hybride, des gens très cultivés, qui essayent de créer et d'organiser une véritable société hybride sur cette île.
+[L0](H1) PP1 rencontre un jeune archéologue qui lui fait découvrir un grand mystère de l'île : des ruines anciennes auxquelles il s'intéresse et les fouille très profondément.
+[H1] Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravures des ruines qui expliquent que cette île était une ile très prospère (ou alors, elle est de sang royal originel, grâce à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la véritable histoire qui a été oubliée du peuple), mais 2 factions minoritaires auraient fait seccession et quitté en bateau l'île et se sont dévelopés sur 2 continents différents. Puis elles sont revenues exterminer les habitant de l'île. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.33
+[fin] elle convainc les habitants de l île de revenir sur le continent pour sauver les autres hybrides en leur disant qu elle a été élevée par des sangs purs
+(fin) le passeur propose d'utiliser ses contacts pour lancer une révolte en impliquant les non-hybrides 
 [T6](T3) PP1 y trouve la vérité sur ses parents et le milicien la ramène chez elle
-(T6)[T7] une fois là-bas PP1 fait éclater la vérité sur ses origine et le milicien la capture
+(T6)[T7] une fois là-bas PP1 fait éclater la vérité sur ses origines et le milicien la capture
 (T7) les villageois organisent une révolte pour la libérer
-(H1) Quelquun demande pourquoi "ONFPOSCO" ? - Parce qu'On Ne Fait Pas d'Omelette Sans Casser des Oeufs! (En vrai, on se souvient plus de pouquoi ^^')
+(H1) Quelqu'un demande pourquoi "ONFPOSCO" ? - Parce qu'On Ne Fait Pas d'Omelette Sans Casser des Oeufs! (En vrai, on se souvient plus de pouquoi ^^')
 
 2 possibilités: Le complot pour guerre 2 grandes nations ou révolte pacifique qui devient armée.
