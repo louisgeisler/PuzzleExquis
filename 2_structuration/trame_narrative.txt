@@ -1,4 +1,4 @@
-[T0] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence
+[T1] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence
 [T1] un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride
 [H0] La brigate s'appelle "ONFPOSCO"
 (T1)[T3] PP1 fugue
@@ -16,10 +16,9 @@
 [L0](L1) PP1 rencontre un jeune archéo qui lui fait découvrir un grand mystère de l'ile : des ruines anciennes auxquels ils s'intéressent et les fouille très profondément.
 [L1](L2) Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile trèe prospère (ou alors, elle est de sang royale originale, grace à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la VRAI histoire et l'histoire oublié de son peuple), mais 2 faction minoritaires auraient fais seccession et quitter en bateau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.
 [L2] elle convainct les habitants de l île de revenir sur le continents pour sauver les autres hybrides en leur disant qu elle à été èlevé par des sang purs.
-[L2] le passeur propose d utiliser ses contacts pour lancer une révolte en implicant les non hybrides et lui dit la vérité sur ces parents
-[T6](T3) PP1 y trouve la vérité sur ses parents et le milicien la ramène chez elle
-(T6)[T7] une fois là-bas PP1 fait éclater la vérité sur ses origine et le milicien la capture
-(T7) les villageois organisent une révolte pour la libérer
+[L2](L3) le passeur propose d utiliser ses contacts pour lancer une révolte en implicant les non hybrides et lui dit la vérité sur ces parents
+[L3](T6) Le milicien les attend au port, tue son escorte et la ramène de force chez elle
+(T6)[T7] Le milicien en ayant vu son entourage de mutant (précédemment tué), laisse la fille avoir ses retrouvailles avec ces parents, mais en même temps les espionne et apprend la vérité sur ses origines.
+(T7) Le milicien capture la fille pour la ramener pour à la capitale pour etre juger.
+(T7) Les braises de la révolte brulent dans le coeurs des hybride et pour la première de non-hybride aussi.
 (H1) Quelquun demande pourquoi "ONFPOSCO" ? - Parce qu'On Ne Fait Pas d'Omelette Sans Casser des Oeufs! (En vrai, on se souvient plus de pouquoi ^^')
-
-2 possibilités: Le complot pour guerre 2 grandes nations ou révolte pacifique qui devient armée.
