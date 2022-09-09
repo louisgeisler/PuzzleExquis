@@ -215,7 +215,7 @@ Une fois le navire ammarait, elle repartie chercher ses affaires dans sa cabine,
 
  - C'est parce qu'ici, il n'y a pas de persécussion: les gens sont libre ! Suis-moi, je vais t'amener chez des amis, qui pourront t'héberger pendant un temps et t'aider à trouver du travaille.
 
- </br><center>**…**</center></br>
+ </br><p align="center">**…**</p></br>
 
  - Ma pauvre fille, tu as du traverser bien des épreuves pour en arriver là... Heureusement que Félix t'as trouvzer, sans lui tu nourriraus sans doute déjà les poissons...
 
