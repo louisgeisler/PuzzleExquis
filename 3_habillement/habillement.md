@@ -18,7 +18,12 @@
 # Règles
 
 Chaque élément narratif commençant par "🚧" veut dire que personne ne l'a encore pris.
+
 Si vou décidez que vous voulez compléter cette section, remplacez "🚧" par "✅" et écrivez votre nom après auteur (dans la section dépliante).
+
+Une fois modifier, vous faite une premieère push requeste. Comme cela vous montrez quelle partie vous êtes en train d'écrire et personne ne l'écrira à votre place.
+
+Puis dans un second temps, vous pusherait votre part de récit quand vous aurez finit de l'écrire.
 
 [Exemple](#exemple)
 
