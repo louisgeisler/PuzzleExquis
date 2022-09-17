@@ -98,9 +98,9 @@ nom Halcanor
 </details></br>
 
 <details>
-<summary>🚧 [T1] un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
+<summary> [T1] ✅un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
 
-**Auteur:** ...
+**Auteur:** Tanguy
 
 ...
 
