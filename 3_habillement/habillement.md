@@ -98,7 +98,7 @@ nom Halcanor
 </details></br>
 
 <details>
-<summary> [T1] ✅un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
+<summary>✅ [T1] Un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
 
 **Auteur:** Tanguy
 
@@ -199,7 +199,7 @@ nom Halcanor
 <details id="exemple">
 <summary>✅ (L0) PP1 se réfugie dans une petite ile parsemé de ruines et peuplé entièrement de hybride ayant fui comme elle.</summary></br>
 
-**Auteur:** Louis Geisler
+**Auteur:** Louis
 
 Au loin, depuis le bateau, Reya aperçu une ile. Bien que l'île semblait minuscule, il se dressait en son centre d'arrogant édifices, qui bien qu'en ruines, semblait tonjour porter la volonté de défier les cieux. Elle ne peut détourner son regard de cette incroyable vision, alors que le bateau effectuait toute sorte de manoeuvre délicate pour éviter les haut-fonds à demi-noyé, protégeant l'ile contre des indésirable.
 
