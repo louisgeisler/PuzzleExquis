@@ -99,6 +99,16 @@ nom Halcanor
 
 <details>
 <summary>✅ [T1] Un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
+Les portes de la taverne s’ouvrent lentement presque timidement. Une ombre entrait, grandissait jusqu’à couvrir le dernier brin de lumière. Un uniforme blanc réduisit la sale au silence. C’était l’uniforme de la milice. Les visages s’assombrirent les yeux se rivèrent sur l’uniforme tandis qu’il avançait tranquillement vers le comptoir. Il s’assit sur un tabouret puis attendit patiemment les deux mains sur bar. Pendant quelques minutes la taverne était figée, seuls quelques murmures se faisaient entendre. Le tavernier surgit enfin de la cuisine, balayant son regard interloqué sur la salle. Puis il voit l’homme au comptoir et s’exclame : 
+-	Arkon ? c’est bien toi ?
+Arkon hocha la tête et souria
+-	Sers-nous donc un verre mon ami, dit-il las, j’en ai bien besoin…
+-	Ne fais pas cette tête ça ne te ressemble pas de déprimer, plaisanta le tavernier tout en servant son ami, raconte-moi tout Arkon
+-	Une vieille affaire refait surface, te rappelles-tu des deux hybrides que j’ai abattus il y a… 14 ans peu ou prou. Et bien une rumeur circule comme quoi ils auraient eu un enfant.
+Le tavernier se raidit l’espace d’une seconde puis se mit à nettoyer un verre pour masquer sa nervosité. Le milicien repris calmement :
+-	Mais c’est impossible, les hybrides sont infertiles. Mes supérieurs me demandent de chasser une chimère alors que je dois déjà gérer des vagues de dissidences de plus en plus violentes !
+-	Ne te prends pas la tête pour ces bêtises, un enfant d’hybrides et puis quoi encore !
+Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. Sa peur du milicien avait laissé place à un intérêt irrésistible pour leur conversation.
 
 **Auteur:** Tanguy
 
