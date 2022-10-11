@@ -93,7 +93,19 @@ nom Halcanor
 
 **Auteur:** Harrisson
 
-Le soleil venait à peine de dresser ses premiers rayons dans le ciel lorsque Reya sortit de son lit ce matin-là. Comme à l’accoutumée, elle s’était aussitôt mise à sa routine matinale. Balai à la main et tout en sifflotant gaiement, il fallait que la taverne brille. Une fois satisfaite de sa besogne, elle s’élançait dans la grande rue bordant sa maison afin d’aller quêter tout ce qu’il lui fallait pour apprêter le petit-déjeuner. Du fermier au boulanger en passant par les lève-tôt du village, tous étaient habitués à la ronde matinale de la petite Reya. Les habitants du petit village avaient tous vu cette charmante jeune fille faire ses premiers pas et gazouiller ses premières syllabes même si son arrivée au village fut des plus tergiversées. En effet la jeune Reya étaient d’une espèce différente de la leur : une race que le commun des humains aimait appeler « hybride ». Méprisés par la grande majorité des humains ordinaires, les hybrides vivaient pour la plupart reclus entre eux. C’était donc avec une certaine appréhension que les villageois avaient accueilli la nouvelle de l’adoption par leurs amis les taverniers d’un bébé hybride. André et Yvonne avaient conscience de la difficulté que cela allait représenter dans un petit village où tout le monde se connaissait mais leurs cœurs ne pouvaient se fermer à ce beau nourrisson. Même si au début, la taverne vit sa clientèle se rarifier, le temps et les doux yeux de Reya qui grandissait parmi eux eurent vite fait de jeter aux oubliettes leurs craintes. Elle n’était désormais que leur petite Reya et ils l’aimaient. Ses courses achevées, Reya revint sur ses pas et regagna la taverne, c’était parti pour une nouvelle journée qu’elle espérait bonne. 
+Le soleil venait à peine de dresser ses premiers rayons dans le ciel lorsque Reya sortit de son lit ce matin-là. Comme à l’accoutumée, elle s’était aussitôt mise à sa routine matinale. Balai à la main et tout en sifflotant gaiement, il fallait que la taverne brille. Une fois satisfaite de sa besogne, elle s’élançait dans la grande rue bordant sa maison afin d’aller quêter tout ce qu’il lui fallait pour apprêter le petit-déjeuner.
+
+Du fermier au boulanger en passant par les lève-tôt du village, tous étaient habitués à la ronde matinale de la petite Reya. Les habitants du petit village avaient tous vu cette charmante jeune fille faire ses premiers pas et gazouiller ses premières syllabes même si son arrivée au village fut des plus tergiversées.
+    
+En effet la jeune Reya étaient d’une espèce différente de la leur : une race que le commun des humains aimait appeler « hybride ». Méprisés par la grande majorité des humains ordinaires, les hybrides vivaient pour la plupart reclus entre eux. C’était donc avec une certaine appréhension que les villageois avaient accueilli la nouvelle de l’adoption par leurs amis les taverniers d’un bébé hybride. André et Yvonne avaient conscience de la difficulté que cela allait représenter dans un petit village où tout le monde se connaissait mais leurs cœurs ne pouvaient se fermer à ce beau nourrisson.
+    
+Même si au début, la taverne vit sa clientèle se rarifier, le temps et les doux yeux de Reya, qui grandissait parmi eux, eurent vite fait de jeter aux oubliettes leurs craintes. Elle n’était désormais que leur petite Reya et ils l’aimaient. Ses courses achevées, Reya revint sur ses pas et regagna la taverne, c’était parti pour une nouvelle journée qu’elle espérait bonne. 
+    
+</br><p align="center">**…**</p></br>
+
+**Commentaires:**
+- Plus de details sur l'histoire de l'intégration de la fille dans le village
+- "Gazouiller" -> filler la metéphore ?
 
 </details></br>
 
@@ -112,6 +124,11 @@ Le tavernier se raidit l’espace d’une seconde puis se mit à nettoyer un ver
 -	Mais c’est impossible, les hybrides sont infertiles. Mes supérieurs me demandent de chasser une chimère alors que je dois déjà gérer des vagues de dissidences de plus en plus violentes !
 -	Ne te prends pas la tête pour ces bêtises, un enfant d’hybrides et puis quoi encore !
 Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. Sa peur du milicien avait laissé place à un intérêt irrésistible pour leur conversation.
+
+**Comentaires:**
+- Mettre une ambiance plus dark et dense
+- répétiton unifomre
+- Bromance trop forte ; ils ont fait l'armée ensemble
 
 </details></br>
 
@@ -143,9 +160,9 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 </details></br>
 
 <details>
-<summary>🚧 [T2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables</summary>
+<summary>✅ [T2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables</summary>
 
-**Auteur:** ...
+**Auteur:** Tanguy
 
 ...
 
@@ -303,16 +320,7 @@ Reya accepta et c'est ainsi que le repas ce finit. Demain, elle essayerait de vi
 </details></br>
 
 <details>
-<summary>🚧 (T6) [T7] Le milicien en ayant vu son entourage de mutant (précédemment tué), laisse la fille avoir ses retrouvailles avec ces parents, mais en même temps les espionne et apprend la vérité sur ses origines.</summary>
-
-**Auteur:** ...
-
-...
-
-</details></br>
-
-<details>
-<summary>✅ (T7) Le milicien capture la fille pour la ramener pour à la capitale pour etre juger.</summary>
+<summary>✅ (T6) [T7] Le milicien en ayant vu son entourage de mutant (précédemment tué), laisse la fille avoir ses retrouvailles avec ces parents, mais en même temps les espionne et apprend la vérité sur ses origines.</summary>
 
 **Auteur:** Tanguy Le magnifique ...
 
@@ -338,6 +346,17 @@ Je ne comprenais pas ce qu’il se passait mais lorsque le milicien se prépara 
 -	Arrêtez ! Je me rends !
 Si le milicien détourna le regard une seconde, mon père se jeta sur lui sans hésitation. Cette diversion empêcha le milicien de dégainé et ma mère attrapa mon bras pour me tirer en dehors de la maison. Nous nous apprêtions à dépasser les deux combattant mais notre ennemi ne comptait pas nous laisser partir. D’un mouvement rapide et précis il retourna le bras de mon père et le lança vers nous. Il nous percuta ma mère et moi et nous écrasa contre le mur de la maison. Le vacarme alerta les habitants du village mais aussi les hommes de la milice. Les aboiements des soldats mettant en joux les citoyens révoltés retentissaient.
 
+**Commentaire:**
+- Mieux expliqué pq elle veut pas rfevoir ses parents
+
+</details></br>
+
+<details>
+<summary>🚧 (T7) Le milicien capture la fille pour la ramener pour à la capitale pour etre juger.</summary>
+    
+**Auteur:** ...
+
+...
 
 </details></br>
 
@@ -352,6 +371,15 @@ Si le milicien détourna le regard une seconde, mon père se jeta sur lui sans h
 
 <details>
 <summary>🚧 (H1) Quelquun demande pourquoi "ONFPOSCO" ? - Parce qu'On Ne Fait Pas d'Omelette Sans Casser des Oeufs! (En vrai, on se souvient plus de pouquoi ^^')</summary>
+
+**Auteur:** ...
+
+...
+
+</details></br>
+
+<details>
+<summary>🚧 (H2) On apprend que Arkon est le diminutif de Archi-Kon.</summary>
 
 **Auteur:** ...
 
