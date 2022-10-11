@@ -240,6 +240,12 @@ La petite fille du couple, voulant changer de sujet, engagea pour la première f
  - J'ai un ami archéologue, si tu veux, je pourrais te le présenter ? Il dit souvent que la meilleur arme qui soit pour prédir l'avenir et de comprendre le passer...
 
 Reya accepta et c'est ainsi que le repas ce finit. Demain, elle essayerait de visiter la ville pplus en détaille et surtout de visiter l'immense ruine centrale qui semble pointer le ciel du doigt, comme coupable de son trépa.
+
+**Commentaires:**
+ - Transition moins abrupte pour l'ellipse, avec plus de description
+ - Moins méchante envers les autres mutants
+ - Mieux expliquer "nourrir les poissons" -> Hybrides noyé
+ 
 </details></br>
 
 <details>
