@@ -102,7 +102,7 @@ Le soleil venait à peine de dresser ses premiers rayons dans le ciel lorsque Re
     
 **Auteur:** Tanguy
     
-Les portes de la taverne s’ouvrent lentement presque timidement. Une ombre entrait, grandissait jusqu’à couvrir le dernier brin de lumière. Un uniforme blanc réduisit la sale au silence. C’était l’uniforme de la milice. Les visages s’assombrirent les yeux se rivèrent sur l’uniforme tandis qu’il avançait tranquillement vers le comptoir. Il s’assit sur un tabouret puis attendit patiemment les deux mains sur bar. Pendant quelques minutes la taverne était figée, seuls quelques murmures se faisaient entendre. Le tavernier surgit enfin de la cuisine, balayant son regard interloqué sur la salle. Puis il voit l’homme au comptoir et s’exclame : 
+Les portes de la taverne s’ouvrirent lentement presque timidement. Une ombre entra grandissant jusqu’à couvrir le dernier brin de lumière. Un uniforme blanc réduisit la salle au silence. C’était l’uniforme de la milice. Les visages s’assombrirent, les yeux se rivèrent sur le milicien tandis qu’il avançait tranquillement vers le comptoir. Il s’assit sur un tabouret puis attendit patiemment les deux mains sur bar. Pendant quelques minutes la taverne était figée, seuls quelques murmures se faisaient entendre. Le tavernier surgit enfin de la cuisine balayant son regard interloqué sur la salle. Puis il vit l’homme au comptoir et s’exclama : 
 -	Arkon ? c’est bien toi ?
 Arkon hocha la tête et souria
 -	Sers-nous donc un verre mon ami, dit-il las, j’en ai bien besoin…
