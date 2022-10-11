@@ -306,11 +306,32 @@ Reya accepta et c'est ainsi que le repas ce finit. Demain, elle essayerait de vi
 </details></br>
 
 <details>
-<summary>🚧 (T7) Le milicien capture la fille pour la ramener pour à la capitale pour etre juger.</summary>
+<summary>✅ (T7) Le milicien capture la fille pour la ramener pour à la capitale pour etre juger.</summary>
 
-**Auteur:** ...
+**Auteur:** Tanguy Le magnifique ...
 
-...
+Le village grandissait à chaque pas dans sa direction, le curieux milicien était juste derrière moi, ne me laissant aucune opportunité de fuir. Chaque pas qui nous rapprochait de mes parents nous avancions tous deux vers le terme de nos missions, il était si proche de la réussite et moi de l’échec. Il n’était de nature pas loquace et je le voyais au cours du trajet faire de gros efforts pour garder son sourire de façade et me parler d’une voix rassurante. « Ne t’inquiète pas je suis un ami de tes parents on va bientôt les retrouver ! » disait-il sans savoir que c’était justement ce que je ne voulais pas. Pourquoi faisait-il cela ? Je ne sais pas. Par égard pour mes parents adoptifs ou parce qu’il a le réflexe de limiter ses interactions à un faux sourire. Qui pourrait entrer dans la tête de ce type. A notre entrée dans le village je vis le soulagement sur le visage de ceux qui m’ont autrefois recueillie. Ils sautèrent dans mes bras et m’enlacèrent jusqu’à en pleurer. Je pleurais aussi, heureuse de les revoir, fatiguée par mon périple et triste qu’il se finisse ainsi. Profitant que le milicien nous laisse à nos retrouvailles, je leur chuchotai à l’oreille : « Je sais qui je suis, je sais d’où je viens. » comme s’ils étaient choqués ils prétextèrent de l’intimité pour m’emmener à l’intérieur de l’auberge, mes parents m’emmenèrent jusque dans la cuisine, mon père ferma consciencieusement la porte pour être sûr que personne n’entende. Je le fixais avec colère et détermination, il baissa les yeux et commença : 
+-	Quand l’amiral nous à contacter pour te confier à nous, tes parents nous ont fait promettre de te cacher et de t’offrir une vie la plus normale possible. C’est pour ça qu’on ne t’a rien dit.
+-	Pourquoi mes parents auraient fait ça ! je suis le seul espoir des hybrides et ils veulent taire mon existence ? ça n’a aucun sens ! criais-je hors de moi.
+-	Tu es leur fille ! et pour nous tu es notre fille aussi ! pour un parent rien n’a d’importance à côté de la vie de ses enfants ! 
+Ainsi parla ma mère avant de couvrir ses yeux ruisselants. Au fond de moi je comprenais, j’aurais surement fait pareil mais je ne pouvais pas l’accepter. Mon peuple comptait sur moi, des morts méritaient leurs vengeances, Il fallait que j’accomplisse mon destin.
+-	Vous ne pourrez pas me retenir, je partirais et j’apporterais la liberté aux hybrides que vous le vouliez ou non. Mon destin s’écrira avec ou sans vous. Déclarais-je froidement.
+-	Si tu penses que nous te laisserons courir au suicide tu trompes ! 
+Après avoir entendu les paroles de mon père je m’avançais vers la sortie d’un pas résolu. Il entama un pas vers moi pour s’interposer quand tout le monde se figea. Les yeux écarquillés, les visages déformés par la peur et la surprise, père mère et fille regardaient vers la porte ouverte. Mon père lâcha faiblement :
+-	Depuis combien de temps es-tu là
+-	Depuis trop longtemps. Répondis froidement le milicien
+Le visage de l’homme en uniforme d’habitude si inexpressif et détendu s’était transformé en un regard de prédateur attentif et menaçant. Il avança lentement tout en annonçant : 
+-	Toute ses années J’ai essayé de fermer les yeux, je n’ai rien demandé, rien fouillé parce que je savais que tu me cachais des choses mon amis. Mais maintenant je sais J’ai du travail. Si tu me laisse l’arrêter sans résistances je ne tuerais personne, je la prendrais vivante. Si vous rendez les choses compliquez je ferais mon travail comme je l’ai toujours fait.
+Mon père s’interposa et dit d’un ton résolu : 
+-	Si seulement tu n’étais pas aussi bon dans ton travail.
+-	Si seulement… nous serions resté amis.
+-	Tu me connais tu sais que je donnerais ma vie pour protéger ma fille
+-	Je te connais et j’espérais que tu te résigneras en sachant que tu ne peux pas me stopper
+-	Alors tu ne me connais pas si bien
+Je ne comprenais pas ce qu’il se passait mais lorsque le milicien se prépara à attaquer ma vision s’assombrit, se rétrécit, ne laissant que lui dans mon champ de vision. Mon cœur s’accéléra et je les revis toutes les personnes qu’il avait tué devant mes yeux. La violence des massacres, Les images d’horreur qui défilaient devant mes yeux me poussèrent à hurler juste avant qu’il ne dégaine :
+-	Arrêtez ! Je me rends !
+Si le milicien détourna le regard une seconde, mon père se jeta sur lui sans hésitation. Cette diversion empêcha le milicien de dégainé et ma mère attrapa mon bras pour me tirer en dehors de la maison. Nous nous apprêtions à dépasser les deux combattant mais notre ennemi ne comptait pas nous laisser partir. D’un mouvement rapide et précis il retourna le bras de mon père et le lança vers nous. Il nous percuta ma mère et moi et nous écrasa contre le mur de la maison. Le vacarme alerta les habitants du village mais aussi les hommes de la milice. Les aboiements des soldats mettant en joux les citoyens révoltés retentissaient.
+
 
 </details></br>
 
