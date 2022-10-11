@@ -93,12 +93,15 @@ nom Halcanor
 
 **Auteur:** Harrisson
 
-...
+Le soleil venait à peine de dresser ses premiers rayons dans le ciel lorsque Reya sortit de son lit ce matin-là. Comme à l’accoutumée, elle s’était aussitôt mise à sa routine matinale. Balai à la main et tout en sifflotant gaiement, il fallait que la taverne brille. Une fois satisfaite de sa besogne, elle s’élançait dans la grande rue bordant sa maison afin d’aller quêter tout ce qu’il lui fallait pour apprêter le petit-déjeuner. Du fermier au boulanger en passant par les lève-tôt du village, tous étaient habitués à la ronde matinale de la petite Reya. Les habitants du petit village avaient tous vu cette charmante jeune fille faire ses premiers pas et gazouiller ses premières syllabes même si son arrivée au village fut des plus tergiversées. En effet la jeune Reya étaient d’une espèce différente de la leur : une race que le commun des humains aimait appeler « hybride ». Méprisés par la grande majorité des humains ordinaires, les hybrides vivaient pour la plupart reclus entre eux. C’était donc avec une certaine appréhension que les villageois avaient accueilli la nouvelle de l’adoption par leurs amis les taverniers d’un bébé hybride. André et Yvonne avaient conscience de la difficulté que cela allait représenter dans un petit village où tout le monde se connaissait mais leurs cœurs ne pouvaient se fermer à ce beau nourrisson. Même si au début, la taverne vit sa clientèle se rarifier, le temps et les doux yeux de Reya qui grandissait parmi eux eurent vite fait de jeter aux oubliettes leurs craintes. Elle n’était désormais que leur petite Reya et ils l’aimaient. Ses courses achevées, Reya revint sur ses pas et regagna la taverne, c’était parti pour une nouvelle journée qu’elle espérait bonne. 
 
 </details></br>
 
 <details>
 <summary>✅ [T1] Un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
+    
+**Auteur:** Tanguy
+    
 Les portes de la taverne s’ouvrent lentement presque timidement. Une ombre entrait, grandissait jusqu’à couvrir le dernier brin de lumière. Un uniforme blanc réduisit la sale au silence. C’était l’uniforme de la milice. Les visages s’assombrirent les yeux se rivèrent sur l’uniforme tandis qu’il avançait tranquillement vers le comptoir. Il s’assit sur un tabouret puis attendit patiemment les deux mains sur bar. Pendant quelques minutes la taverne était figée, seuls quelques murmures se faisaient entendre. Le tavernier surgit enfin de la cuisine, balayant son regard interloqué sur la salle. Puis il voit l’homme au comptoir et s’exclame : 
 -	Arkon ? c’est bien toi ?
 Arkon hocha la tête et souria
@@ -109,10 +112,6 @@ Le tavernier se raidit l’espace d’une seconde puis se mit à nettoyer un ver
 -	Mais c’est impossible, les hybrides sont infertiles. Mes supérieurs me demandent de chasser une chimère alors que je dois déjà gérer des vagues de dissidences de plus en plus violentes !
 -	Ne te prends pas la tête pour ces bêtises, un enfant d’hybrides et puis quoi encore !
 Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. Sa peur du milicien avait laissé place à un intérêt irrésistible pour leur conversation.
-
-**Auteur:** Tanguy
-
-...
 
 </details></br>
 
