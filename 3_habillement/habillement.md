@@ -89,9 +89,9 @@ nom Halcanor
 # Structure
 
 <details>
-<summary>🚧 [T1] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence</summary>
-
-**Auteur:** ...
+<summary>✅ [T1] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence</summary>
+Le soleil venait à peine de dresser ses premiers rayons dans le ciel lorsque Reya sortit de son lit ce matin-là. Comme à l’accoutumée, elle s’était aussitôt mise à sa routine matinale. Balai à la main et tout en sifflotant gaiement, il fallait que la taverne brille. Une fois satisfaite de sa besogne, elle s’élançait dans la grande rue bordant sa maison afin d’aller quêter tout ce qu’il lui fallait pour apprêter le petit-déjeuner. Du fermier au boulanger en passant par les lève-tôt du village, tous étaient habitués à la ronde matinale de la petite Reya. Les habitants du petit village avaient tous vu cette charmante jeune fille faire ses premiers pas et gazouiller ses premières syllabes même si son arrivée au village fut des plus tergiversées. En effet la jeune Reya étaient d’une espèce différente de la leur : une race que le commun des humains aimait appeler « hybride ». Méprisés par la grande majorité des humains ordinaires, les hybrides vivaient pour la plupart reclus entre eux. C’était donc avec une certaine appréhension que les villageois avaient accueilli la nouvelle de l’adoption par leurs amis les taverniers d’un bébé hybride. André et Yvonne avaient conscience de la difficulté que cela allait représenter dans un petit village où tout le monde se connaissait mais leurs cœurs ne pouvaient se fermer à ce beau nourrisson. Même si au début, la taverne vit sa clientèle se rarifier, le temps et les doux yeux de Reya qui grandissait parmi eux eurent vite fait de jeter aux oubliettes leurs craintes. Elle n’était désormais que leur petite Reya et ils l’aimaient. Ses courses achevées, Reya revint sur ses pas et regagna la taverne, c’était parti pour une nouvelle journée qu’elle l'espérait serait bonne. 
+**Auteur:** Harrisson
 
 ...
 
