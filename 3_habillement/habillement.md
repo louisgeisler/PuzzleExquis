@@ -89,9 +89,9 @@ nom Halcanor
 # Structure
 
 <details>
-<summary>🚧 [T1] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence</summary>
+<summary>✅ [T1] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence</summary>
 
-**Auteur:** ...
+**Auteur:** Harrisson
 
 ...
 
