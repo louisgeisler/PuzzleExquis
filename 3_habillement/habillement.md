@@ -114,9 +114,9 @@ Même si au début, la taverne vit sa clientèle se rarifier, le temps et les do
     
 **Auteur:** Tanguy
     
-Les portes de la taverne s’ouvrirent lentement presque timidement. Une ombre entra grandissant jusqu’à couvrir le dernier brin de lumière. Un uniforme blanc réduisit la salle au silence. C’était l’uniforme de la milice. Les visages s’assombrirent, les yeux se rivèrent sur le milicien tandis qu’il avançait tranquillement vers le comptoir. Il s’assit sur un tabouret puis attendit patiemment les deux mains sur bar. Pendant quelques minutes la taverne était figée, seuls quelques murmures se faisaient entendre. Le tavernier surgit enfin de la cuisine balayant son regard interloqué sur la salle. Puis il vit l’homme au comptoir et s’exclama : 
+Les portes de la taverne s’ouvrirent lentement presque timidement. Une ombre entra, grandissant jusqu’à couvrir le dernier brin de lumière. Un uniforme blanc réduisit la salle au silence. C’était l’uniforme de la milice. Les visages s’assombrirent, les yeux se rivèrent sur le milicien tandis qu’il avançait tranquillement vers le comptoir. Il s’assit sur un tabouret puis attendit patiemment les deux mains sur bar. Pendant quelques minutes la taverne était figée, seuls quelques murmures se faisaient entendre. Le tavernier surgit enfin de la cuisine balayant son regard interloqué sur la salle. Puis il vit l’homme au comptoir et s’exclama : 
 -	Arkon ? c’est bien toi ?
-Arkon hocha la tête et souria
+Arkon hocha la tête et sourit
 -	Sers-nous donc un verre mon ami, dit-il las, j’en ai bien besoin…
 -	Ne fais pas cette tête ça ne te ressemble pas de déprimer, plaisanta le tavernier tout en servant son ami, raconte-moi tout Arkon
 -	Une vieille affaire refait surface, te rappelles-tu des deux hybrides que j’ai abattus il y a… 14 ans peu ou prou. Et bien une rumeur circule comme quoi ils auraient eu un enfant.
@@ -227,36 +227,36 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 
 **Auteur:** Louis
 
-Au loin, depuis le bateau, Reya aperçu une ile. Bien que l'île semblait minuscule, il se dressait en son centre d'arrogant édifices, qui bien qu'en ruines, semblait tonjour porter la volonté de défier les cieux. Elle ne peut détourner son regard de cette incroyable vision, alors que le bateau effectuait toute sorte de manoeuvre délicate pour éviter les haut-fonds à demi-noyé, protégeant l'ile contre des indésirable.
+Au loin, depuis le bateau, Reya aperçut une ile. Bien que l'île semblait minuscule, il se dressait en son centre d'arrogants édifices, qui bien qu'en ruines, semblaient tonjours porter la volonté de défier les cieux. Elle ne put détourner son regard de cette incroyable vision, alors que le bateau effectuait toutes sortes de manoeuvres délicates pour éviter les haut-fonds à demi-noyés, protégeant l'ile contre des indésirables.
 
-Si elle avait alors regardé par le fond, peut-etre aurait-elle vu un spectacle encore plus extraordinaire qu'à la surface, car les ruine s'étendaient aussi sous la mer.
+Si elle avait alors regardé par le fond, peut-etre aurait-elle vu un spectacle encore plus extraordinaire qu'à la surface, car les ruines s'étendaient aussi sous la mer.
 
-Une fois le navire ammarait, elle repartie chercher ses affaires dans sa cabine, puis descendit par la passerrelle. Elle fut agréablement surprise de voir que l'île ne se composait que d'hybrides, comme elle, plus ou moins réussi. Alors qu'elle attendait Félix sur le quai, un autre aspect de l'ile qui la frappa était l'architecture. Il y avait un mélange saisissant de ruine majestueuse, ayant conservé leur aura de grandeur, mais qui avaient étaient accomoder en vitesse par un ensemble de bric et de broc. Ainsi dont la noble pierre de taille, se mélangeait avec de la taule, des baches en tissu et de planches de bois pourris par les intempéris.
+Une fois le navire amarré, elle repartit chercher ses affaires dans sa cabine, puis descendit par la passerrelle. Elle fut agréablement surprise de voir que l'île ne se composait que d'hybrides, comme elle, plus ou moins réussis. Alors qu'elle attendait Félix sur le quai, un autre aspect de l'ile qui la frappa était l'architecture. Il y avait un mélange saisissant de ruines majestueuses, ayant conservé leur aura de grandeur, mais qui avaient été raccomodées en vitesse par un ensemble de brics et de brocs. Ainsi donc la noble pierre de taille, se mélangeait avec de la taule, des baches en tissu et des planches de bois pourries par les intempéries.
 
- - Tu révasses ? Cela m'a fait le même effet la première fois que j'ai débarquer ici, il y 30 ans.
+ - Tu révasses ? Cela m'a fait le même effet la première fois que j'ai débarqué ici, il y 30 ans.
 
  Elle se retourna, Félix était là, juste derrière elle et avait posé sa main sur son épaule.
 
- - Oui, c'est une île bien étrange, finit-elle par dire. Mais étrangement, je me sans bien ici...
+ - Oui, c'est une île bien étrange, finit-elle par dire. Mais étrangement, je me sens bien ici...
 
- - C'est parce qu'ici, il n'y a pas de persécussion: les gens sont libre ! Suis-moi, je vais t'amener chez des amis, qui pourront t'héberger pendant un temps et t'aider à trouver du travaille.
+ - C'est parce qu'ici, il n'y a pas de persécution: les gens sont libres ! Suis-moi, je vais t'amener chez des amis, qui pourront t'héberger pendant un temps et t'aider à trouver du travail.
 
  </br><p align="center">**…**</p></br>
 
- - Ma pauvre fille, tu as du traverser bien des épreuves pour en arriver là... Heureusement que Félix t'as trouvzer, sans lui tu nourriraus sans doute déjà les poissons...
+ - Ma pauvre fille, tu as du traverser bien des épreuves pour en arriver là... Heureusement que Félix t'as trouvée, sans lui tu nourrirais sans doute déjà les poissons...
 
- Du poisson, ironniquement, c'est le plat qu'il lui avait servit pour cet diner... Elle l'avait mangé de bon coeur, mais maintenant, elle sentit malade, presque à en vomir. Elle se demandais: Combien d'autre mutants n'avaient pas eu sa chance et c'était retouver dans la mer ? A t-elle point qu'elle finit par se dire que ce n'était pas si irréaliste que ce gros poisson qu'elle venait de manger ait déjà gouter à l'un de ses semblables !
+ Du poisson, ironiquement, c'est le plat qu'ils lui avaient servi pour ce diner... Elle l'avait mangé de bon coeur, mais maintenant, elle se sentit malade, presque à en vomir. Elle se demandait: Combien d'autre mutants n'avaient pas eu sa chance et s'étaientt retrouvés dans la mer ? A tal point qu'elle finit par se dire que ce n'était pas si irréaliste que ce gros poisson qu'elle venait de manger ait déjà gouté à l'un de ses semblables !
 
  Elle tapa sur la table:
-  - Cela doit cesser ! Je ferais tout pour que cela cesse!
+  - Cela doit cesser ! Je ferai tout pour que cela cesse!
 
-Toute la famille la regarda ; tout les nouveaux qui arrivaient ici réagissait ainsi. Puis il goutait à la liberté de l'île et faisait le choix de profiter de la vie, plutôt que de s'engager dans une lutte perdu d'avance.
+Toute la famille la regarda ; tous les nouveaux qui arrivaient ici réagissaient ainsi. Puis ils goutaient à la liberté de l'île et faisaient le choix de profiter de la vie, plutôt que de s'engager dans une lutte perdue d'avance.
 
 La petite fille du couple, voulant changer de sujet, engagea pour la première fois la conversation:
 
- - J'ai un ami archéologue, si tu veux, je pourrais te le présenter ? Il dit souvent que la meilleur arme qui soit pour prédir l'avenir et de comprendre le passer...
+ - J'ai un ami archéologue, si tu veux, je pourrais te le présenter ? Il dit souvent que la meilleure arme qui soit pour prédire l'avenir et de comprendre le passeé...
 
-Reya accepta et c'est ainsi que le repas ce finit. Demain, elle essayerait de visiter la ville pplus en détaille et surtout de visiter l'immense ruine centrale qui semble pointer le ciel du doigt, comme coupable de son trépa.
+Reya accepta et c'est ainsi que le repas se finit. Le lendemain, elle essayerait de visiter la ville plus en détail et surtout de visiter l'immense ruine centrale qui semblait pointer le ciel du doigt, comme coupable de son trépas.
 
 **Commentaires:**
  - Transition moins abrupte pour l'ellipse, avec plus de description
