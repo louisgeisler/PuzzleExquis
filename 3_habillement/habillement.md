@@ -193,14 +193,26 @@ Elle lui décrivit ses parents et lui demanda s'il les avaient 'vu'. Sans dire m
  - [Efface]*<<Ils m'avaient posé des question sur ceux que j'enterre>>*
  - [Efface]*<<Eux aussi persistèrent, va au bordel des "Mutantes du Plaisir" et demande à voir l'"insulaire">>*
  - ...merci
-    
-     </br><p align="center">**…**</p></br>
      
- Alors qu'elle sortie du cimetière, une ombre imposante entra dans la cabane de fossoyeur. Cette ombre ne posa que 2 questions: 
+ Alors qu'elle sortait du cimetière, une ombre imposante entra dans la cabane de fossoyeur. Cette ombre ne posa que 2 questions: 
      
- - Qu'est-ce que cette fille vous a demandé ? Et où est-elle allé ?
- - [Efface]*<<Ils m'avaient posé des question sur ceux que j'enterre>>*
- - [Efface]*<<Eux aussi persistèrent, va au bordel des "Mutantes du Plaisir" et demande à voir l'"insulaire">>*
+ - Qu'est-ce que cette 'fille' vous a demandé ? Et où est-elle allé ?
+ - [Efface]*<<Si j'avais vu ces parents. Elle est allé au bordel des "Mutantes du Plaisir">>*
+ - ...ce n'est jamais été aussi d'obtenir des informations d'un mutant ; arrétez de me mentir!
+ - [Efface]*<<Vous êtes la mort sur ses talons. Elle rencontrera des résistants mutants.>>*
+ - [Efface]*<<C'est trop calm, j'ai trop faim, il me faut mes 2 pièces de bronze par cadavre enterré!>>*
+
+Puis il cracha à ses pieds et referma la porte.
+
+</br><p align="center">**…**</p></br>
+
+ - Bonjour, je voudrais voir l'insulaire !
+ - 3e étage, la porte à gauche, toc avant d'entrée !
+
+Toc, Toc, Toc, elle entra.
+
+
+
 
 </details></br>
 
