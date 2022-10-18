@@ -93,7 +93,9 @@ nom Halcanor
 
 **Auteur:** Harrisson
 
-Le soleil venait à peine de dresser ses premiers rayons dans le ciel lorsque Reya sortit de son lit ce matin-là. Comme à l’accoutumée, elle s’était aussitôt mise à sa routine matinale. Balai à la main et tout en sifflotant gaiement, il fallait que la taverne brille. Une fois satisfaite de sa besogne, elle s’élançait dans la grande rue bordant sa maison afin d’aller quêter tout ce qu’il lui fallait pour apprêter le petit-déjeuner.
+Le soleil venait à peine de dresser ses premiers rayons dans le ciel lorsque Reya sortit de son lit ce matin-là. Comme à l’accoutumée, elle s’était aussitôt mise à sa routine matinale. Balai à la main et tout en sifflotant gaiement, il fallait que la taverne brille. Une fois satisfaite de sa besogne, elle s’élançat dans la grande rue bordant sa maison afin d’aller quêter tout ce qu’il lui fallait pour apprêter le petit-déjeuner.
+    
+La beauté aurorale du ciel rendait encore plus joyeux le caractère de Reya qui était déjà fort enjoué. Elle virevoltait et chantonnait à chaque pas, comme accompagnant dans leurs envolées matinales les chants de tous les rossignols de la région. De ses pas légers et cadencés, elle parcourait chaque commerce et chaque échppe au gré des bonjours et des embrassades. 
 
 Du fermier au boulanger en passant par les lève-tôt du village, tous étaient habitués à la ronde matinale de la petite Reya. Les habitants du petit village avaient tous vu cette charmante jeune fille faire ses premiers pas et gazouiller ses premières syllabes même si son arrivée au village fut des plus tergiversées.
     
