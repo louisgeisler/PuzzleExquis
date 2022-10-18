@@ -171,11 +171,36 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 </details></br>
 
 <details>
-<summary>🚧 (T2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer</summary>
+<summary>✅ (T2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer</summary>
 
-**Auteur:** ...
+**Auteur:** Louis
 
-...
+A la recherche du passé, de ses parents, Reya décida de commencer son enquête par l'endroit le plus logique. Elle se rendit à la grande cathédrale, un batiment d'une immense majesté, bati sur des années d'asservissement de travailleurs hybrides jusqu'à les tué d'épuissement. En rabattant son capuchon sur son visage, comme pour se cacher d'un dieu secret.
+
+Un moine, gardien de la sainteté des lieux, se reposait mollement sur sa lance de bois, lui souri, d'un sourir d'acier:
+ - L'amour de Dieu doit nous diriger!
+ - J'aimerais Dieu. L'écouterais et lui obéirais. | Ces mots, appris par coeurs, sortir d'eux même, car ses parent l'avaient élevé dans la tradition religieuse du continent.
+ - Que son amour soit sur vous et qu'il vous guide !
+ 
+Elle ne rentra pas dans l'église, mais contenta de marcher dans le cimetière et s'arreta devant la fausse commune, surmontée d'une immense pancarte en bois, où furent noté à la hate les noms des enterré. Certains étaient en partie effacé, mais aucun encore lisible ne correspondait au nom de ses parents. Cela n'était pas suffisant pour la convaincre, elle s'avantura dans le fond du cimetière, là où pue la mort: la cabane du fossoyeur.
+    
+Il était mutant, comme elle ; rien de mieux qu'un monstre pour enterrer ses semblables ! Sa mutation était particulièrement abjecte: il n'avait pas de machoire inférieur, ni de lèvres, ni de bouche. De la peau dans laquelle un trou avait été déchiré, partait de dessous son nez, pour arriver jusqu'à la base de son cou.
+    
+Elle lui décrivit ses parents et lui demanda s'il les avaient 'vu'. Sans dire mot, il hocha lentement la tête. Il sortie une planchette de bois et écrivit dessus à la craie. 
+    
+ - [Efface]*<<La mort de suivra partout, si tu persiste.>>*
+ - Je DOIS savoir !
+ - [Efface]*<<Ils m'avaient posé des question sur ceux que j'enterre>>*
+ - [Efface]*<<Eux aussi persistèrent, va au bordel des "Mutantes du Plaisir" et demande à voir l'"insulaire">>*
+ - ...merci
+    
+     </br><p align="center">**…**</p></br>
+     
+ Alors qu'elle sortie du cimetière, une ombre imposante entra dans la cabane de fossoyeur. Cette ombre ne posa que 2 questions: 
+     
+ - Qu'est-ce que cette fille vous a demandé ? Et où est-elle allé ?
+ - [Efface]*<<Ils m'avaient posé des question sur ceux que j'enterre>>*
+ - [Efface]*<<Eux aussi persistèrent, va au bordel des "Mutantes du Plaisir" et demande à voir l'"insulaire">>*
 
 </details></br>
 
@@ -183,9 +208,9 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 <summary>🚧 (T3) Le milicien arrive derriere PP1 et cause en massacre en dénichant un réseau de resistants</summary>
 
 **Auteur:** ...
+    
 
-...
-
+Avant de partir, Reya repassa devant l'église et vit bien des nouveaux noms, avaient étée écris à la craie franche sur la stèle en bois...
 </details></br>
 
 <details>
