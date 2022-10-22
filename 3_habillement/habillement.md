@@ -313,23 +313,21 @@ Reya accepta et c'est ainsi que le repas ce finit. Demain, elle essayerait de vi
 
 **Auteur:** Harrisson
     
-    - Reya, Reya....Voici la personne que je voulais te présenter. 
+- Reya, Reya....Voici la personne que je voulais te présenter. 
 
-    Théna s'avançait haletante vers Reya, tenant par la main un jeune qui tentait de suivre la cadence de la fougueuse jeune fille. Halcanor, c'est comme ça qu'il se nommait. C'était un jeune garçon qui était arrivé sur l'ile tout petit, il avait grandi dans ce décor et le connaissait mieux que quiconque. Mieux, il avait développé une ardente passion pour ces ruines et tout le mystère qu'elles entouraient.  
+Théna s'avançait haletante vers Reya, tenant par la main un jeune qui tentait de suivre la cadence de la fougueuse jeune fille. Halcanor, c'est comme ça qu'il se nommait. C'était un jeune garçon qui était arrivé sur l'ile tout petit, il avait grandi dans ce décor et le connaissait mieux que quiconque. Mieux, il avait développé une ardente passion pour ces ruines et tout le mystère qu'elles entouraient.  
 
 A force de les étudier, il avait réussi à déchiffrer des symboles que nul avant lui n'avait pu comprendre. Halcanor avait donc bien mérité son titre d'archéologue de l'ile. Lorsque Reya l'aperçut, elle ne put cacher un petit sourire, c'est vrai qu'il paraissait bien particulier avec son bric-à-brac et sa loupe.  
 
-    - Salut...Reya ...c'est ça ? Moi c'est Halcanor. Bienvenue sur notre ile. 
-
-    - Enchantée et merci, j’adore déjà ce lieu, c’est comme si j’y avait toujours appartenu... 
-
-    - Attends de voir cette superbe ruine tout là-haut, c’est fascinant 
+- Salut...Reya ...c'est ça ? Moi c'est Halcanor. Bienvenue sur notre ile. 
+- Enchantée et merci, j’adore déjà ce lieu, c’est comme si j’y avait toujours appartenu... 
+- Attends de voir cette superbe ruine tout là-haut, c’est fascinant 
 
 En énonçant ces mots, il arrivait à peine à masquer la lueur d’excitation qui brillait dans son regard. C’était donc avec un entrain ferme qu’il conduisit vers les hautes ruines sous le regard vague de Théna que le brouhaha environnant distrayait déjà.  
 
 Marche après marche, Halcanor profitait du trajet pour raconter ses découvertes à Reya ainsi que toutes les théories qu’il avait émises quant à l’histoire de cette ile qui se terrait dans le mystère. Tout intriguée, elle se plaisait à imaginer chacune d’elles et à écouter Halcanor employer de savants mots que seuls des compères archéologues sauraient comprendre. 
 
-     - C’est la fit Halcanor 
+- C’est la fit Halcanor 
 
 Une immense porte venait de dresser devant eux et leurs personnes semblaient, à cet instant, négligeables. À l’aide d’un mécanisme savamment rodé, Halcanor actionna l’ouverture des énormes battants, dévoilant ainsi une immense salle toute gravée.  
 
@@ -337,8 +335,7 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
 
 À la vue du grossier dessin, Reya se raidit. Elle connaissait ce symbole, les traits de ce dessin lui étaient beaucoup trop familières. Mais qu’est-ce que cela pouvait bien signifier se questionnait-elle intérieurement.  
 
-    - Ça va Reya? Lança timidement Halcanor qui avait vu le trouble assombrir le visage de la jeune fille.... 
- 
+- Ça va Reya? Lança timidement Halcanor qui avait vu le trouble assombrir le visage de la jeune fille.... 
 
 </details></br>
 
