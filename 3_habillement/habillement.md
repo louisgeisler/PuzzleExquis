@@ -368,10 +368,30 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
 
 <details>
 <summary>🚧 [L2] elle convainct les habitants de l île de revenir sur le continents pour sauver les autres hybrides en leur disant qu elle à été èlevé par des sang purs.</summary>
+    
+**Auteur:** Harrisson
 
-**Auteur:** ...
+Raya était sonnée par tout ce qu’elle venait de découvrir. Pourtant, jamais les choses ne lui parurent aussi claires. Après avoir pris un moment pour digérer ces bouleversantes vérités, elle décida qu’il était plus que temps d’agir. 
 
-...
+       Halcanor s’était chargé d’informer les hautes sphères de la cité de ces récents rebondissements et toute l’ile était émoustillée. Lorsqu’elle se résolut à sortir de sa réclusion, ce fut un grand émoi que Raya créa dans la foule assemblée sur la grande place.  
+
+         D’aucun étaient craintifs, d’autres admiratifs ou encore curieux mais tous sans exception ne pouvaient décoller le regard de celle qui pour eux se rapprochait le plus d’une Elue. D’un pas décidé, Raya s’avança jusqu’au milieu de la foule.  
+
+        Moult sentiments se bousculaient en elle : la peur de ce qu'impliquait la découverte de sa nature, la rage pour toutes les injustices que subissent les siens et la sensation que la pureté de son sang ne lui conférait aucune légitime autorité. Cette dernière pensée fut balayée par les cris de ses camarades mutants qui commençaient, à l’unisson, à scander son prénom.  
+
+      Pour la première fois depuis des jours, elle avait enfin le sentiment de servir à quelque chose et se départit enfin de cette impuissance qui la tourmentait. Elle pouvait voir la lueur dans le regard de tous ses mutants qui semblaient revivre à sa simple vue. 
+
+       Chers frères, chères sœurs lança-t-elle d'un ton ferme. J’ai vu nos souffrances et toutes les injustices faites à notre peuple. Je sais que vous tous avez énormément soufferts et jouissez d’une quiétude bien méritée sous ces cieux. Mais nous ne pouvons guère dormir en paix lorsque nos semblables restent miséreux et abusés sur le continent.  Il nous faut nous battre pour eux, afin que tous les mutants soient libres et respectés. 
+
+    On ne sera jamais assez nombreux qu’eux, clama une fois au milieu de la foule, ce sera un véritable massacre. 
+
+    Nous ne devons pas nous battre contre eux mais avec eux, seule leur aide nous aidera à faire flancher le pouvoir en place et à rétablir la vérité 
+
+    Les continentaux ? Jamais ces gens ne nous aideraient continua la voix, ils sont incapables de nous témoigner une once de compatie. 
+
+    Détrompe-toi, cria Raya, ils ne sont pas tous ainsi. J’ai grandi au milieu d’eux dans un village ou j’étais aimée et chérie. Il y a encore de l’espoir tant qu’il subsistera une âme amie pour nous aider dans notre lutte. Usons de l’épée de la vérité et du bouclier de notre solidarité pour mener cette guerre et ainsi assurer liberté et égalité à tous nos frères. Etes-vous prêt à mener cette lutte avec moi ? 
+
+  Les paroles de la jeune fille avaient été plus que convaincants. Une vague bruyante et farouche d’approbation s’élevait de la foule réunie et tous semblaient plus résolus que jamais à se battre pour changer les choses.
 
 </details></br>
 
