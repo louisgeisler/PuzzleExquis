@@ -358,11 +358,24 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
 </details></br>
 
 <details>
-<summary>🚧 [L1] (L2) Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile trèe prospère (ou alors, elle est de sang royale originale, grace à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la VRAI histoire et l'histoire oublié de son peuple), mais 2 faction minoritaires auraient fais seccession et quitter en bateau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.</summary>
+<summary>✅ [L1] (L2) Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile très prospère (ou alors, elle est de sang royale originale, grace à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la VRAI histoire et l'histoire oublié de son peuple), mais 2 faction minoritaires auraient fais seccession et quitter en bateau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.</summary>
 
 **Auteur:** Louis
 
-...
+ - Ce symbole... il a exactement la forme de ma marque de naissance !
+ - Tu peux me montrer ?
+ - Il est à un endroit un peu embarassant... Je ne l'ai jamais montré à personnes, seuls mes parents sont aux courant... Mais il peut s'agir d'une simple coincidence, rien de plus...
+    
+ - C'est possible. En tout cas, une coincidence parait plus logique qu'une explication du genre: <<Tu es la déesse réincarné d'une civilisation millénaire disparue>>.
+ - Ha Ha Ha, c'est sûr !
+ - En plus, selon ma théorie la civilisation qui vivait ici n'avait rien de mystique, ni d'extraordinaire. Selon les cherchers mené par les différents générations d'archéologue de ma famille, nous avons trouvé des poteries, des rituels et des gravures qui semblent être un mélange des culture des deux continents que nous connaissons aujourd'hui. Nous pensons que ce fut la seule expérience de l'histoire où ses deux espèce ont tenté de cohabité pacifiquement ensemble sur la même îles ; sans doute un ramassie d'idéalistes pacifiques. On voit bien où cela les a mené !
+ - Tu sais ce qui c'est passé ? Pourquoi l'ile est devenue une ruine déserté ?
+ - La guerre, je pense... La guerre est souvent la réponse la plus simple et la plus logique en archéologie pour expliquer une disparition soudaines !, dit-il en souriant de toute ses dents.
+ - C'est horrible !
+ - C'est ce qui arrive quand deux espèces totalement incompatible essaye de cohabiter...
+ - Peut-etre qu'il y a juste eu un tremblement de terre et qu'ils sont tous partie en bateau non ?
+ - Je ne pense pas. De plus leur cohabitation ne semblait pas si simple. Laisse moi te montrer quelque chose, il y a une petite salle dans le fond des ruine qui devrait t'intéresser. *Il continua a parler en marchant tant dit qu'il l'emmener toujours plus profondément dans sombre profondeurs de ces ruines antiques:
+ - Attention à ta tête ! Ici, c'est un peu compliqué d'y aller car certaines galeries se sont effondraient. Mais cette salle est vraiment incroyable. Le plus incroyable c'est quelle semble se trouver 10 pieds sous le niveau de l'océan, mais aucunes infiltration d'eau n'a été remarqué. Ah, nous y sommes !
 
 </details></br>
 
