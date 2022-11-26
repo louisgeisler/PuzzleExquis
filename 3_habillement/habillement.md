@@ -360,7 +360,7 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
 <details>
 <summary>🚧 [L1] (L2) Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile trèe prospère (ou alors, elle est de sang royale originale, grace à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la VRAI histoire et l'histoire oublié de son peuple), mais 2 faction minoritaires auraient fais seccession et quitter en bateau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.</summary>
 
-**Auteur:** ...
+**Auteur:** Louis
 
 ...
 
