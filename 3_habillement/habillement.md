@@ -232,9 +232,11 @@ Toc, Toc, Toc, elle entra.
 <details>
 <summary>🚧 (T3) Le milicien arrive derriere PP1 et cause en massacre en dénichant un réseau de resistants</summary>
 
-**Auteur:** ...
+**Auteur:** Tanguy F
 
-...
+En chemin vers le bordel, bien qu’elle ne pensât jamais mettre les pieds dans un établissement aussi dépravé, Reya regarda les habitants aux sang purs vaquer à leurs occupations et se demandait si seulement ils étaient au courant de la vie que menait les hybrides à quelques pâtés de maisons d’ici. Ils marchaient dans les rues, faisaient leurs courses ou travaillaient au grès des heures qui passent. Ils recommençaient leurs journées inlassablement, remplissant leurs obligations routinières comme s’ils occupaient un autre monde isolé de la misère. Ils profitent de ce monde bâtit sur le sang et la sueur de ceux qui n’y sont pas invités. Alors qu’ils tentent de combler l’immensité vide de leur existence avec un afflux infini de tracas infimes. Pas un seul petit être n’a la plus infime pensée pour ceux qui ont subis l’immense souffrance de n’être pas bien né.
+La joie d’un quartier animé la tira de ses pensées sombres. Dans la partie mutante il était délabré mais résonnant de discussions, de chants et de cris. Pour la première fois elle voyait quelques sangs purs parler aux mutants. Après tout elle avait été recueillie par des tavernier, peut être que l’amour de l’alcool était enfin un point commun entre sang pur et hybrides. 
+
 
 </details></br>
 
