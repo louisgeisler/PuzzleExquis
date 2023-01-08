@@ -368,7 +368,7 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
  - Tu peux me montrer ?
  - Il est à un endroit un peu embarassant... Je ne l'ai jamais montré à personnes, seuls mes parents sont aux courant... Mais il peut s'agir d'une simple coincidence, rien de plus...
     
- - C'est possible. En tout cas, une coincidence parait plus logique qu'une explication du genre: <<Tu es la déesse réincarné d'une civilisation millénaire disparue>>.
+ - C'est possible. En tout cas, une coincidence parait plus logique qu'une explication du genre: <<Tu es la déesse réincarnée d'une civilisation millénaire disparue>>.
  - Ha Ha Ha, c'est sûr !
  - En plus, selon ma théorie la civilisation qui vivait ici n'avait rien de mystique, ni d'extraordinaire. Selon les cherchers mené par les différents générations d'archéologue de ma famille, nous avons trouvé des poteries, des rituels et des gravures qui semblent être un mélange des culture des deux continents que nous connaissons aujourd'hui. Nous pensons que ce fut la seule expérience de l'histoire où ses deux espèce ont tenté de cohabité pacifiquement ensemble sur la même îles ; sans doute un ramassie d'idéalistes pacifiques. On voit bien où cela les a mené !
  - Tu sais ce qui c'est passé ? Pourquoi l'ile est devenue une ruine déserté ?
@@ -378,6 +378,21 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
  - Peut-etre qu'il y a juste eu un tremblement de terre et qu'ils sont tous partie en bateau non ?
  - Je ne pense pas. De plus leur cohabitation ne semblait pas si simple. Laisse moi te montrer quelque chose, il y a une petite salle dans le fond des ruine qui devrait t'intéresser. *Il continua a parler en marchant tant dit qu'il l'emmener toujours plus profondément dans sombre profondeurs de ces ruines antiques:
  - Attention à ta tête ! Ici, c'est un peu compliqué d'y aller car certaines galeries se sont effondraient. Mais cette salle est vraiment incroyable. Le plus incroyable c'est quelle semble se trouver 10 pieds sous le niveau de l'océan, mais aucunes infiltration d'eau n'a été remarqué. Ah, nous y sommes !
+
+Cette salle était assez petite, mais semblait avoir extrêmemnt bien résisté à l'epreuve de temps. Elle semblait même être la salle la plus récente. Les murs étaient sobrement décoré de gravure en bas relief montrant une guerre terrible faisant rage avec our centre, ce qui semblait être l'île.
+    
+Reya vient un symbole quelle reconnue immediatement, car c'était le même que ça marque de naissance. Il était juste plus grand. Il brillait d'un rouge sang, comme s'il pouvait être vivant. Reya s'approcha et mis ça main dessus. Elle sentit une douleure extrêment soudaine, comme une picure dans la paume de sa main qu'elle retira en tout hate en criant de sourprise et dans sa précipitation, elle tomba en arrière.
+    
+Halcanor, intrigué et inquiét, s'accroupie à coté d'elle et regarda ça main:
+ - C'est la première fois que je vois ça ! Nous n'avions pourant trouver aucun piège quand nous avons explorer les ruines. Cela doit vouloir dire que cette endroit en particulier cache un secret assez important pour mettre de telle mécanisme. Attends, laisse-moi faire !
+
+Quand il vit que au centre de la paume de son amie, il y avait une petite goutte de sang, il lui pris brusquement la main, porta sa picure à ses lèvres et essaye d'aspirer le plus possible, puis il crachat.
+ - Mais qu'est-ce que tu fais ? Tu t'es pris pour qui ? Je t'interdit de faire ça ! Il n'y a absolumnent rien entre nous ! Dite-elle, en retirant sa main rapidement, rouge de honte et de colère.
+ - Ce n'est pas ce que tu crois, haha. Il est très probable que ce qui t'ai piqué soit empoisonnée, c'est pour ça que j'ai essayé d'aspirer le poison et de le recacracher... Je ne sais pas vraiment si ça sera efficace... Il se peut que tu meurt bientôt, ou bien peut-être que c'est un poison à action lente, que ne te frapera que bien plus tard...
+ - C'est horrible ce que tu dis ! Je ne veux pas mourrir, et encore moins mourrir vierge !, cria Reya.
+ - ...après, s'il y avait vraiment du poison dessus, je pense qu' après plus de 500 ans, il ne doit sans doute plus vraiment être très dangereux, haha. Et aussi, je ne prendrais pas le risque que le poison puiss e se transmettre par le sang...
+ - ...
+Et alors qu'ils se regardèrent tout les deux très mal à l'aise, ils entendirent un grincement sourd. Une porte s'ouvrit lentement, caché derrière la sculpture.
 
 </details></br>
 
