@@ -393,7 +393,10 @@ Quand il vit que au centre de la paume de son amie, il y avait une petite goutte
  - ...après, s'il y avait vraiment du poison dessus, je pense qu' après plus de 500 ans, il ne doit sans doute plus vraiment être très dangereux, haha. Et aussi, je ne prendrais pas le risque que le poison puiss e se transmettre par le sang...
  - ...
 Et alors qu'ils se regardèrent tout les deux très mal à l'aise, ils entendirent un grincement sourd. Une porte s'ouvrit lentement, caché derrière la sculpture.
+Dans la pièce, que venait de découvrir cette porte secrète, il y avait une immense bibliothèque, ainsi qu'un squelette qui tenait dans ses main un livre.
 
+Reya et Halcanor, le souffle court, entrèrent prudemment dans la pièce. Ils se dirigère vers le squelette et halcanor se mit à déchiffrer la dernière page du livre, qui selon tout vraisemblance, avait était écrite avec du sang.  
+  
 </details></br>
 
 <details>
