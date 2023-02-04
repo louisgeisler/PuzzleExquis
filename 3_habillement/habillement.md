@@ -397,7 +397,15 @@ Dans la pièce, que venait de découvrir cette porte secrète, il y avait une im
 
 Reya et Halcanor, le souffle court, entrèrent prudemment dans la pièce. Ils se dirigère vers le squelette et Halcanor se mit à déchiffrer la dernière page du livre, qui selon tout vraisemblance, avait était écrite avec du sang.
  
- - Il est écrit: << Soyez maudits ! Vous les guerriers de l'Est et vous les guerriers de l'Ouest ! Tourner le dos à votre propre patrie qui vous a vu naitre n'aura donc pas été suffisant, il a fallut que vous reveniez assoiffer de sang pour ravager votre histoire, burler votre mémoire ! De part mon sacrifice, je vous condamne à vous haïr pour toute l'éternité ! Vous vous ferez la guerre, encore et encore, jusqu'à ce que la mer devienne rouge. Mais notre famille royale ne mourra pas. Je ne serais pas la dernière reine de notre dynastie millénaire. Je peux le voir, dans le futur, une jeune fille, infâme à vos yeux, fruit de l'union de vos 2 espèces, se revendiquera de notre héritage et reprendra ce qui lui appartient de droit !>>
+ - Il est écrit: << Soyez maudits ! Vous les guerriers de l'Est et vous les guerriers de l'Ouest ! Tourner le dos à votre propre patrie qui vous a vu naitre n'aura donc pas été suffisant, il a fallut que vous reveniez assoiffer de sang pour ravager votre histoire, burler votre mémoire ! De part mon sacrifice, je vous condamne à vous haïr pour toute l'éternité ! Vous vous ferez la guerre, encore et encore, jusqu'à ce que la mer devienne rouge. Mais notre famille royale ne mourra pas. Je ne serais pas la dernière reine de notre dynastie millénaire. Je peux le voir, dans le futur, une jeune fille, infâme à vos yeux, fruit de l'union de vos 2 espèces, arborera notre marque royale et se revendiquera de notre héritage et reprendra ce qui lui appartient de droit, avec pour seule arme: la VERITE>>... Je crois qu'elle parlais de toi, 2 millénaire avant que tu n'existe...
+ - C'est vraiment incroyable, comment as-t-elle pu prédire une telle chose ? Cette civilisation devait vraiment avoir des moyens magiques.
+ - Peut-etre pas... Je pense que la picure que tu as ressenti devait être une osculteur sanguin, pour voir si ton sang se rapprocher de celui de la royauté, et donc t'as laissé entrée, et on a pu lire sa prédiction. Mais si personne n'était venue avec un sang compatible personne n'aurait pu voir sa prédiction, doonc dans tout les cas, elle avait raison !
+ - Tais-toi, ne salie pas la mémoire de notre ligné !, dit Reya mi-amusé, mi-sérieuse.  De ce que je vois, ce qu'elle entendait par vérité était leur bibliothèque royale... Je me demande ce qu'on va y trouver. ça aurait été mieux si c'était des armes !
+ - S'ils avaient de bonnes armes, ils n'auraient pas perdue, fit remarquer Halcanor. Le fait qu'ils aient besoins de se rabattre sur la parole, montre à quelle point ils étaient faibles. Et de toute façon, la "VERITE", cela ne veut rien dire. S'il voulait que leur vérité triomphe, ils n'avaient qu'a l'imposer par la force de leur temps !
+ - Peut-etre que ça peut tout de même encore avoir un intêret... Aller, commençons par ce livre, je suis extrement curieux de connaitre leur histoire, pas toi Halcanor, les grand archéologue qui a dédié sa vie à ses ruines ?
+ - Oui, moi aussi, souffla à demie-voix Halcanor...
+
+
 </details></br>
 
 <details>
