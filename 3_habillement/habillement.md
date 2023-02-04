@@ -369,15 +369,15 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
  - Il est à un endroit un peu embarassant... Je ne l'ai jamais montré à personnes, seuls mes parents sont aux courant... Mais il peut s'agir d'une simple coincidence, rien de plus...
     
  - C'est possible. En tout cas, une coincidence parait plus logique qu'une explication du genre: <<Tu es la déesse réincarnée d'une civilisation millénaire disparue>>.
- - Ha Ha Ha, c'est sûr !
+ - Ha Ha Ha, oui, c'est sûr !
  - En plus, selon ma théorie la civilisation qui vivait ici n'avait rien de mystique, ni d'extraordinaire. Selon les cherchers mené par les différents générations d'archéologue de ma famille, nous avons trouvé des poteries, des rituels et des gravures qui semblent être un mélange des culture des deux continents que nous connaissons aujourd'hui. Nous pensons que ce fut la seule expérience de l'histoire où ses deux espèce ont tenté de cohabité pacifiquement ensemble sur la même îles ; sans doute un ramassie d'idéalistes pacifiques. On voit bien où cela les a mené !
  - Tu sais ce qui c'est passé ? Pourquoi l'ile est devenue une ruine déserté ?
  - La guerre, je pense... La guerre est souvent la réponse la plus simple et la plus logique en archéologie pour expliquer une disparition soudaines !, dit-il en souriant de toute ses dents.
- - C'est horrible !
+ - C'est vraiment horrible !
  - C'est ce qui arrive quand deux espèces totalement incompatible essaye de cohabiter...
- - Peut-etre qu'il y a juste eu un tremblement de terre et qu'ils sont tous partie en bateau non ?
- - Je ne pense pas. De plus leur cohabitation ne semblait pas si simple. Laisse moi te montrer quelque chose, il y a une petite salle dans le fond des ruine qui devrait t'intéresser. *Il continua a parler en marchant tant dit qu'il l'emmener toujours plus profondément dans sombre profondeurs de ces ruines antiques:
- - Attention à ta tête ! Ici, c'est un peu compliqué d'y aller car certaines galeries se sont effondraient. Mais cette salle est vraiment incroyable. Le plus incroyable c'est quelle semble se trouver 10 pieds sous le niveau de l'océan, mais aucunes infiltration d'eau n'a été remarqué. Ah, nous y sommes !
+ -Je suis sur qu'il y a une autre explication ! Je ne pense pas que nos 2 espèces sont vouer à se haïr pour toujour...
+ - Peut-etre, peut-etre, mais de ce que je sais, leur cohabitation ne semblait pas si simple. Laisse moi te montrer quelque chose, il y a une petite salle dans le fond des ruine qui devrait t'intéresser. *Il continua a parler en marchant tant dit qu'il l'emmenait toujours plus profondément dans sombre profondeurs de ces ruines antiques:
+ - Attention à ta tête ! Ici, c'est un peu compliqué d'y aller car certaines galeries se sont effondrées. Mais cette salle est vraiment incroyable. Le plus incroyable c'est quelle semble se trouver 10 pieds sous le niveau de l'océan, mais aucunes infiltration d'eau n'a été remarqué. Ah, nous y sommes !
 
 Cette salle était assez petite, mais semblait avoir extrêmemnt bien résisté à l'epreuve de temps. Elle semblait même être la salle la plus récente. Les murs étaient sobrement décoré de gravure en bas relief montrant une guerre terrible faisant rage avec our centre, ce qui semblait être l'île.
     
@@ -387,16 +387,17 @@ Halcanor, intrigué et inquiét, s'accroupie à coté d'elle et regarda ça main
  - C'est la première fois que je vois ça ! Nous n'avions pourant trouver aucun piège quand nous avons explorer les ruines. Cela doit vouloir dire que cette endroit en particulier cache un secret assez important pour mettre de telle mécanisme. Attends, laisse-moi faire !
 
 Quand il vit que au centre de la paume de son amie, il y avait une petite goutte de sang, il lui pris brusquement la main, porta sa picure à ses lèvres et essaye d'aspirer le plus possible, puis il crachat.
- - Mais qu'est-ce que tu fais ? Tu t'es pris pour qui ? Je t'interdit de faire ça ! Il n'y a absolumnent rien entre nous ! Dite-elle, en retirant sa main rapidement, rouge de honte et de colère.
- - Ce n'est pas ce que tu crois, haha. Il est très probable que ce qui t'ai piqué soit empoisonnée, c'est pour ça que j'ai essayé d'aspirer le poison et de le recacracher... Je ne sais pas vraiment si ça sera efficace... Il se peut que tu meurt bientôt, ou bien peut-être que c'est un poison à action lente, que ne te frapera que bien plus tard...
- - C'est horrible ce que tu dis ! Je ne veux pas mourrir, et encore moins mourrir vierge !, cria Reya.
- - ...après, s'il y avait vraiment du poison dessus, je pense qu' après plus de 500 ans, il ne doit sans doute plus vraiment être très dangereux, haha. Et aussi, je ne prendrais pas le risque que le poison puiss e se transmettre par le sang...
+ - Mais qu'est-ce que tu fais ? Tu t'es pris pour qui ? Je t'interdit de faire ça ! Pour qui te prends-tu ?! Dite-elle, en retirant sa main rapidement, rouge de honte et de colère.
+ - Ce n'est pas ce que tu crois... Il est très probable que ce qui t'ai piqué soit empoisonnée, c'est pour ça que j'ai essayé d'aspirer le poison et de le recacracher... Je ne sais pas vraiment si ça sera efficace... Il se peut que tu meurt bientôt, ou bien peut-être que c'est un poison à action lente, que ne te frapera que bien plus tard...
+ - C'est horrible ce que tu dis ! Je ne veux pas mourrir ! Il me reste encore tant de chose à voir et à vivre ! Comme visiter le continent de l'Ouest ! Et avant de mourrir, j'aimerais au moins connaitre le grand amoure !, cria Reya et regardant intensement Halcanor dans les yeux.
+ - ...après, s'il y avait vraiment du poison dessus, je pense qu' après plus de 500 ans, il ne doit sans doute plus vraiment être très dangereux, haha.
  - ...
 Et alors qu'ils se regardèrent tout les deux très mal à l'aise, ils entendirent un grincement sourd. Une porte s'ouvrit lentement, caché derrière la sculpture.
 Dans la pièce, que venait de découvrir cette porte secrète, il y avait une immense bibliothèque, ainsi qu'un squelette qui tenait dans ses main un livre.
 
-Reya et Halcanor, le souffle court, entrèrent prudemment dans la pièce. Ils se dirigère vers le squelette et halcanor se mit à déchiffrer la dernière page du livre, qui selon tout vraisemblance, avait était écrite avec du sang.  
-  
+Reya et Halcanor, le souffle court, entrèrent prudemment dans la pièce. Ils se dirigère vers le squelette et Halcanor se mit à déchiffrer la dernière page du livre, qui selon tout vraisemblance, avait était écrite avec du sang.
+ 
+ - Il est écrit: << Soyez maudits ! Vous les guerriers de l'Est et vous les guerriers de l'Ouest ! Tourner le dos à votre propre patrie qui vous a vu naitre n'aura donc pas été suffisant, il a fallut que vous reveniez assoiffer de sang pour ravager votre histoire, burler votre mémoire ! De part mon sacrifice, je vous condamne à vous haïr pour toute l'éternité ! Vous vous ferez la guerre, encore et encore, jusqu'à ce que la mer devienne rouge. Mais notre famille royale ne mourra pas. Je ne serais pas la dernière reine de notre dynastie millénaire. Je peux le voir, dans le futur, une jeune fille, infâme à vos yeux, fruit de l'union de vos 2 espèces, se revendiquera de notre héritage et reprendra ce qui lui appartient de droit !>>
 </details></br>
 
 <details>
