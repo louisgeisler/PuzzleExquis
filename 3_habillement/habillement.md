@@ -89,7 +89,7 @@ nom Halcanor
 # Structure
 
 <details>
-<summary>✅ [T1] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence</summary>
+<summary>✅ 1) [T1] PP1 vie tranquillement avec ses parents adoptif dans un village habitué à sa présence</summary>
 
 **Auteur:** Harrisson
 
@@ -110,7 +110,7 @@ Même si au début, la taverne vit sa clientèle se rarifier, le temps et les do
 </details></br>
 
 <details>
-<summary>✅ [T1] Un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
+<summary>🚧 2) [T1] Un commandant de la milice tueur d'hybride (idée: trouver nom qui cahce leur violence ; dératisseur?) et ami des parents d'adoption de PP1 arrive, il évoque la rumeur d'un enfant d'hybride</summary>
     
 **Auteur:** Tanguy
     
@@ -133,7 +133,7 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 </details></br>
 
 <details>
-<summary>🚧 [H0] La brigate s'appelle "ONFPOSCO"</summary>
+<summary>❌ 3) [H0] La brigate s'appelle "ONFPOSCO"</summary>
 
 **Auteur:** ...
 
@@ -142,7 +142,7 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 </details></br>
 
 <details>
-<summary>🚧 (T1) [T3] PP1 fugue</summary>
+<summary>❌ 4) (T1) [T3] PP1 fugue</summary>
 
 **Auteur:** ...
 
@@ -151,7 +151,7 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 </details></br>
 
 <details>
-<summary>🚧 (T1) (T3) le milicien la prend en chasse pour la ramener</summary>
+<summary>❌ 5) (T1) (T3) le milicien la prend en chasse pour la ramener</summary>
 
 **Auteur:** ...
 
@@ -160,7 +160,7 @@ Le tavernier feignait l’hilarité tandis que Reya les regardait intensément. 
 </details></br>
 
 <details>
-<summary>✅ [T2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables</summary>
+<summary>🚧 6) [T2] va dans la plus grande ville de la région les conditions de vie des hybrides sont déplorables</summary>
 
 **Auteur:** Tanguy
 
@@ -187,7 +187,7 @@ Reya hésita puis les suivis en voyant qu’elle n’avait pas vraiment le choix
 </details></br>
 
 <details>
-<summary>✅ (T2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer</summary>
+<summary>✅ 7) (T2) un hybride lui indiquer la route d'une ville frontalière où ses parents ont du passer</summary>
 
 **Auteur:** Louis
 
@@ -230,7 +230,7 @@ Toc, Toc, Toc, elle entra.
 </details></br>
 
 <details>
-<summary>🚧 (T3) Le milicien arrive derriere PP1 et cause en massacre en dénichant un réseau de resistants</summary>
+<summary>🚧 8) (T3) Le milicien arrive derriere PP1 et cause en massacre en dénichant un réseau de resistants</summary>
 
 **Auteur:** Tanguy F
 
@@ -241,7 +241,7 @@ La joie d’un quartier animé la tira de ses pensées sombres. Dans la partie m
 </details></br>
 
 <details>
-<summary>🚧 (T2) PP1 s'enfuie et se met en route</summary>
+<summary>❌ 9) (T2) PP1 s'enfuie et se met en route</summary>
 
 **Auteur:** ...
 
@@ -250,7 +250,7 @@ La joie d’un quartier animé la tira de ses pensées sombres. Dans la partie m
 </details></br>
 
 <details>
-<summary>🚧 [T4] PP1 arrive dans la ville frontalière et rencontre le passeur qui s est occupé de ses parents</summary>
+<summary>❌ 10) [T4] PP1 arrive dans la ville frontalière et rencontre le passeur qui s est occupé de ses parents</summary>
 
 **Auteur:** ...
 
@@ -259,7 +259,7 @@ La joie d’un quartier animé la tira de ses pensées sombres. Dans la partie m
 </details></br>
 
 <details>
-<summary>🚧 (T3) [T5] le milicien arrive juste apres elle et decouvre le passeur</summary>
+<summary>❌ 11) (T3) [T5] le milicien arrive juste apres elle et decouvre le passeur</summary>
 
 **Auteur:** ...
 
@@ -268,7 +268,7 @@ La joie d’un quartier animé la tira de ses pensées sombres. Dans la partie m
 </details></br>
 
 <details>
-<summary>🚧 (T5) PP1 enfuie de justesse et part pour des ruines que lui a indiqué le passeur</summary>
+<summary>❌ 12) (T5) PP1 enfuie de justesse et part pour des ruines que lui a indiqué le passeur</summary>
 
 **Auteur:** ...
 
@@ -277,7 +277,7 @@ La joie d’un quartier animé la tira de ses pensées sombres. Dans la partie m
 </details></br>
 
 <details id="exemple">
-<summary>✅ (L0) PP1 se réfugie dans une petite ile parsemé de ruines et peuplé entièrement de hybride ayant fui comme elle.</summary></br>
+<summary>✅ 13) (L0) PP1 se réfugie dans une petite ile parsemé de ruines et peuplé entièrement de hybride ayant fui comme elle.</summary></br>
 
 **Auteur:** Louis
 
@@ -320,7 +320,7 @@ Reya accepta et c'est ainsi que le repas ce finit. Demain, elle essayerait de vi
 </details></br>
 
 <details>
-<summary>🚧 [L0] (L1) PP1 se rend compte qu'il y a une élite hybride, des gens très cultivé, qui essaye de créer et d'organiser une véritable société hybride sur cette ile.</summary>
+<summary>❌ 14) [L0] (L1) PP1 se rend compte qu'il y a une élite hybride, des gens très cultivé, qui essaye de créer et d'organiser une véritable société hybride sur cette ile.</summary>
 
 **Auteur:** ...
 
@@ -329,7 +329,7 @@ Reya accepta et c'est ainsi que le repas ce finit. Demain, elle essayerait de vi
 </details></br>
 
 <details>
-<summary>✅ [L0] (L1) PP1 rencontre un jeune archéo qui lui fait découvrir un grand mystère de l'ile : des ruines anciennes auxquels ils s'intéressent et les fouille très profondément.</summary>
+<summary>✅ 15) [L0] (L1) PP1 rencontre un jeune archéo qui lui fait découvrir un grand mystère de l'ile : des ruines anciennes auxquels ils s'intéressent et les fouille très profondément.</summary>
 
 **Auteur:** Harrisson
     
@@ -360,7 +360,7 @@ Halcanor se mit ainsi à expliquer en détail à Reya tout ce qu’il avait pu c
 </details></br>
 
 <details>
-<summary>✅ [L1] (L2) Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile très prospère (ou alors, elle est de sang royale originale, grace à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la VRAI histoire et l'histoire oublié de son peuple), mais 2 faction minoritaires auraient fais seccession et quitter en bateau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.</summary>
+<summary>✅ 16) [L1] (L2) Elle apprend qu'elle est en réalité la pièce manquante du puzzle et la preuve de leur théorie. Pour preuve, sa mutation correspond exactement aux gravure des ruines qui expliquent que cette ile était une ile très prospère (ou alors, elle est de sang royale originale, grace à son sang, reproduisant un rituel ancestral illustré sur l'une des gravures des ruines elle débloque l'accès à une salle secrète avec plein de documents relatant la VRAI histoire et l'histoire oublié de son peuple), mais 2 faction minoritaires auraient fais seccession et quitter en bateau l'ile et se sont dévelopé sur 2 continents différents. Puis elle sont revenue exterminer les habitant de l'ile. Puis se sont fait la guerre entre elles. Occultant par volonté politique qu'à la base ils étaient une minorité dissidente d'un autre état.</summary>
 
 **Auteur:** Louis
 
@@ -409,7 +409,7 @@ Reya et Halcanor, le souffle court, entrèrent prudemment dans la pièce. Ils se
 </details></br>
 
 <details>
-<summary>✅ [L2] elle convainct les habitants de l île de revenir sur le continents pour sauver les autres hybrides en leur disant qu elle à été èlevé par des sang purs.</summary>
+<summary>✅ 17) [L2] elle convainct les habitants de l île de revenir sur le continents pour sauver les autres hybrides en leur disant qu elle à été èlevé par des sang purs.</summary>
     
 **Auteur:** Harrisson
 
@@ -438,7 +438,7 @@ Les paroles de la jeune fille avaient été plus que convaincants. Une vague bru
 </details></br>
 
 <details>
-<summary>🚧 [L2] (L3) le passeur propose d utiliser ses contacts pour lancer une révolte en implicant les non hybrides et lui dit la vérité sur ces parents</summary>
+<summary>❌ 18) [L2] (L3) le passeur propose d utiliser ses contacts pour lancer une révolte en implicant les non hybrides et lui dit la vérité sur ces parents</summary>
 
 **Auteur:** ...
 
@@ -447,7 +447,7 @@ Les paroles de la jeune fille avaient été plus que convaincants. Une vague bru
 </details></br>
 
 <details>
-<summary>🚧 [L3] (T6) Le milicien les attend au port, tue son escorte et la ramène de force chez elle</summary>
+<summary>❌ 19) [L3] (T6) Le milicien les attend au port, tue son escorte et la ramène de force chez elle</summary>
 
 **Auteur:** ...
 
@@ -456,7 +456,7 @@ Les paroles de la jeune fille avaient été plus que convaincants. Une vague bru
 </details></br>
 
 <details>
-<summary>✅ (T6) [T7] Le milicien en ayant vu son entourage de mutant (précédemment tué), laisse la fille avoir ses retrouvailles avec ces parents, mais en même temps les espionne et apprend la vérité sur ses origines.</summary>
+<summary>✅ 20) (T6) [T7] Le milicien en ayant vu son entourage de mutant (précédemment tué), laisse la fille avoir ses retrouvailles avec ces parents, mais en même temps les espionne et apprend la vérité sur ses origines.</summary>
 
 **Auteur:** Tanguy Le magnifique ...
 
@@ -491,7 +491,7 @@ Si le milicien se détendit une seconde, le père de famille en profita pour se 
 </details></br>
 
 <details>
-<summary>🚧 (T7) Le milicien capture la fille pour la ramener pour à la capitale pour etre juger.</summary>
+<summary>❌ 21) (T7) Le milicien capture la fille pour la ramener pour à la capitale pour etre juger.</summary>
     
 **Auteur:** ...
 
@@ -500,7 +500,7 @@ Si le milicien se détendit une seconde, le père de famille en profita pour se 
 </details></br>
 
 <details>
-<summary>🚧 (T7) Les braises de la révolte brulent dans le coeurs des hybride et pour la première de non-hybride aussi.</summary>
+<summary>❌ 22) (T7) Les braises de la révolte brulent dans le coeurs des hybride et pour la première de non-hybride aussi.</summary>
 
 **Auteur:** ...
 
@@ -509,7 +509,7 @@ Si le milicien se détendit une seconde, le père de famille en profita pour se 
 </details></br>
 
 <details>
-<summary>🚧 (H1) Quelquun demande pourquoi "ONFPOSCO" ? - Parce qu'On Ne Fait Pas d'Omelette Sans Casser des Oeufs! (En vrai, on se souvient plus de pouquoi ^^')</summary>
+<summary>❌ 23) (H1) Quelquun demande pourquoi "ONFPOSCO" ? - Parce qu'On Ne Fait Pas d'Omelette Sans Casser des Oeufs! (En vrai, on se souvient plus de pouquoi ^^')</summary>
 
 **Auteur:** ...
 
@@ -518,7 +518,7 @@ Si le milicien se détendit une seconde, le père de famille en profita pour se 
 </details></br>
 
 <details>
-<summary>🚧 (H2) On apprend que Arkon est le diminutif de Archi-Kon.</summary>
+<summary>❌ 24) (H2) On apprend que Arkon est le diminutif de Archi-Kon.</summary>
 
 **Auteur:** ...
 
